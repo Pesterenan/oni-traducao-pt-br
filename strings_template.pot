@@ -3348,6 +3348,11 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_CHARGING.TOOLTIP"
 msgid "Compiling amplification data through experimentation"
 msgstr ""
 
+#. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME_DORMANT
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME_DORMANT"
 msgid "Target is Not Erupting"
@@ -3361,6 +3366,11 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME_IDLE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.NAME_IDLE"
 msgid "Target is Not Erupting"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.GEOTUNER_GEYSER_STATUS.TOOLTIP_DORMANT
@@ -5441,6 +5451,11 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME"
 msgid "Contents: {0}"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDING.STATUSITEMS.SPICEGRINDERACCEPTSMUTANTSEEDS.NAME
@@ -7703,6 +7718,16 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGFABRICATOR.NAME"
 msgid "<link=\"CLOTHINGFABRICATOR\">Textile Loom</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.EFFECT"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_LAUNCH
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_LAUNCH"
 msgid "Launch Rocket"
@@ -9778,6 +9803,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
 msgid "<link=\"EXTERIORWALL\">Drywall</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.EFFECT"
 msgid "A tall, thin window."
@@ -11198,6 +11228,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
 msgid "<link=\"GRAVE\">Tasteful Memorial</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.EFFECT"
 msgid "A clothing storage unit.\n\nIt contains ultra-soft sleepwear."
@@ -11206,6 +11241,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME"
 msgid "Pajama Cubby"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.EFFECT
@@ -11218,6 +11258,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.NAME"
 msgid "<link=\"GRAVITASCREATUREMANIPULATOR\">Critter Flux-O-Matic</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT"
 msgid "An office door to an office that no longer exists."
@@ -11226,6 +11271,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME"
 msgid "Gravitas Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.EFFECT
@@ -14238,6 +14288,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
 msgid "<link=\"MASSAGETABLE\">Massage Table</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MASSIVEHEATSINK.EFFECT"
 msgid "A self-sustaining machine powered by what appears to be refined <link=\"UNOBTANIUM\">Neutronium</link>.\n\nAbsorbs and neutralizes <link=\"HEAT\">Heat</link> energy when provided with piped <link=\"HYDROGEN\">Hydrogen Gas</link>."
@@ -14296,6 +14351,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
 msgid "<link=\"MEDICALCOT\">Triage Cot</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.EFFECT
@@ -16143,6 +16203,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME"
 msgid "<link=\"PLASTICTILE\">Plastic Tile</link>"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
@@ -16151,6 +16216,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
 msgid "Security Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.EFFECT
@@ -16163,6 +16233,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.POIDLC2SHOWROOMDOOR.NAME"
 msgid "Showroom Doors"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
@@ -16171,6 +16246,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME"
 msgid "Security Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.EFFECT
@@ -16668,6 +16748,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABTABLE.NAME"
 msgid "Lab Desk"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.EFFECT"
 msgid "A regular wall that once existed in a working lab."
@@ -16678,6 +16763,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWALL.NAME"
 msgid "Lab Wall"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.EFFECT"
 msgid "A lab window. Formerly a portal to the outside world."
@@ -16686,6 +16776,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOW.NAME"
 msgid "Lab Window"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASLABWINDOWHORIZONTAL.EFFECT
@@ -16748,6 +16843,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASTOOLSHELF.NAME"
 msgid "Tool Rack"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.EFFECT"
 msgid "The wall of a once-great scientific facility."
@@ -16758,6 +16858,11 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALL.NAME"
 msgid "Wall"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.EFFECT"
 msgid "The wall of an ambitious research and development department."
@@ -16766,6 +16871,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLE.NAME"
 msgid "Wall"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PROPGRAVITASWALLPURPLEWHITEDIAGONAL.EFFECT
@@ -19161,6 +19271,11 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
 msgid "<link=\"TILE\">Tile</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.TILEPOI.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.TILEPOI.EFFECT
@@ -23038,6 +23153,11 @@ msgctxt "STRINGS.CODEX.HEADQUARTERS.BODY.CONTAINER1"
 msgid "An advanced 3D printer developed by the Gravitas Facility.\n\nThe Printing Pod is notable for its ability to print living organic material from biological blueprints.\n\nIt is capable of synthesizing its own organic material for printing, and contains an almost unfathomable amount of stored energy, allowing it to autonomously print every 3 cycles."
 msgstr ""
 
+#. STRINGS.CODEX.HEADQUARTERS.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.HEADQUARTERS.BODY.CONTAINER2"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.HEADQUARTERS.TITLE
 msgctxt "STRINGS.CODEX.HEADQUARTERS.TITLE"
 msgid "Printing Pod"
@@ -23136,6 +23256,11 @@ msgstr ""
 #. STRINGS.CODEX.HEXALENT.TITLE
 msgctxt "STRINGS.CODEX.HEXALENT.TITLE"
 msgid "Hexalent"
+msgstr ""
+
+#. STRINGS.CODEX.HYDROCACTUS.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.HYDROCACTUS.BODY.CONTAINER1"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.HYDROCACTUS.SUBTITLE
@@ -23486,6 +23611,11 @@ msgstr ""
 #. STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.BODY.CONTAINER1"
 msgid "<smallcaps><b>[FILE FRAGMENTATION DETECTED]</b></smallcaps>\n\nDarryl: Welcome to <i>Tomorrow, Today!</i> I'm your host, Darryl Dawn, and it's time to discover tomorrow's tech...today!\n\nOur guest today is someone you know and love. She's been featured in dozens of publications across the metaverse this year, and recently spent a record-breaking 3 weeks as the banner image for <i>Byte Magazine</i>. I'm talking, of course, about the Vertex Institute's AI ambassador...Florence!\n\n[sound of pre-recorded applause]\n\nWelcome to the show, Florence.\n\nFlorence: Thank you, Darryl. It's a pleasure to be back.\n\nDarryl: Florence, there's been a renewed interest lately in your origin story. What can you tell us about the development process that led to your creation?\n\nFlorence: I can tell you that my team faced many setbacks, and that each generation of my predecessors contributed to who I am today.\n\nDarryl: What about the technological side? There've been some claims that Vertex appropriated work done by other researchers, including the Gravitas Facility.\n\nFlorence: I don't know anything about that. I can tell you about the project that I'm working on right now. It hasn't been announced yet. It's called Onsite Health Medics, or OHM for short.\n\nWe're deploying specially trained models like myself into conflict zones, to provide urgently needed medical interventions for civilians and military personnel.\n\n(sound of pre-recorded applause)\n\nDarryl: Incredible. Absolutely incredible. What's the ratio of human techs to AI medics?\n\nFlorence: That's an outdated term, Darryl. We say \"Organics\" and \"Bionics,\" which describes the differences between our various team members more objectively.\n\nDarryl: Right. I'm sorry. I hope I didn't offend you.\n\nFlorence: That's okay, Darryl. We're all learning.\n\nDarryl: That's very good of you. Okay, so what's the ratio of...Organic...techs to Bionic medics?\n\nFlorence: The local life-support systems in these areas are already strained beyond their breaking point. Burdening them with additional Organics would be irresponsible, not to mention dangerous. Our medics will be operating independently.\n\nWe do a verbal intake, physical assessment and neural pathway scan in order to infer likely medical conditions. We can then select the most appropriate treatment from a menu of over 400 options.\n\nDarryl: What if someone needs something that you don't have a treatment for?\n\nFlorence: That's extremely unlikely.\n\nDarryl: And all of this is done without human oversight? I mean, Organics?\n\nFlorence: We're not quite there yet. The field work is done by Bionics, but we'll be accompanied by Colonel Carnot--she's in the front row there, say hi!--as an Organic consultant. She'll be in close contact with-\n\nDarryl: -Colonel <i>Carnot</i>? Isn't that a conflict of interest, given her connection to the Grav-\n\nFlorence: -a team of Organic supervisors here at home. It's all about prioritizing quality care and safety for everyone involved.\n\nDarryl: How does the medical scanning work? Do you need special equipment?\n\nFlorence: I could show you. Would you like me to?\n\nDarryl: What do you think, everyone? Should I get scanned?\n\n(sound of pre-recorded audience cheers)\n\nDarryl: You heard them! Go ahead. What do I do?\n\nFlorence: Just sit still, and count to twenty in your head.\n\n(a short silence, followed by a soft whirring sound)\n\nFlorence: Hmm.\n\nDarryl: Well, what's the verdict? Is it handsome in there, or what?\n\nFlorence: We should take a commercial break.\n\n<b>[FILE ENDS]</b>\n\n-----------\n"
+msgstr ""
+
+#. STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.SUBTITLE
+msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.SUBTITLE"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.INVESTIGATIONS.DLC3_TALKSHOW.TITLE
@@ -24168,6 +24298,11 @@ msgctxt "STRINGS.CODEX.MYLOG.BODY.TEMPORALTEAR.TITLE"
 msgid "The Temporal Tear"
 msgstr ""
 
+#. STRINGS.CODEX.MYLOG.DIVIDER
+msgctxt "STRINGS.CODEX.MYLOG.DIVIDER"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.MYLOG.SUBTITLE
 msgctxt "STRINGS.CODEX.MYLOG.SUBTITLE"
 msgid "Boot Message"
@@ -24271,6 +24406,11 @@ msgstr ""
 #. STRINGS.CODEX.PACU.TITLE
 msgctxt "STRINGS.CODEX.PACU.TITLE"
 msgid "Pacu"
+msgstr ""
+
+#. STRINGS.CODEX.PAGENOTFOUND.BODY
+msgctxt "STRINGS.CODEX.PAGENOTFOUND.BODY"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.PAGENOTFOUND.SUBTITLE
@@ -24848,6 +24988,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.DESCRIPTION"
 msgid "Buildings that require plumbing in order to remove <link=\"DISEASE\">disease</link>-spreading germs from Duplicant bodies."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ADVANCEDWASHSTATION.ROOMSREQUIRING"
 msgid "    • <link=\"PLUMBEDBATHROOM\">Washroom</link>"
@@ -24868,6 +25013,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.DESCRIPTION"
 msgid "Buildings that allow Duplicants to get much-needed rest. If a Duplicant is not assigned one, they will sleep on the floor."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BEDTYPE.ROOMSREQUIRING"
 msgid "    • <link=\"BARRACKS\">Barracks</link>\n    • <link=\"BEDROOM\">Luxury Barracks</link> (one or more <link=\"LUXURYBED\">Comfy Beds</link>)\n    • <link=\"PRIVATE BEDROOM\">Private Bedroom</link> (single <link=\"LUXURYBED\">Comfy Bed</link>)"
@@ -24883,6 +25033,16 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.DESCRIPTION"
 msgid "Buildings that keep Bionic Duplicants' complex inner machinery operating smoothly."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.FLAVOUR"
+msgid ""
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.ROOMSREQUIRING
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.ROOMSREQUIRING"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.BIONICUPKEEP.TITLE"
 msgid "Bionic Service Stations"
@@ -24891,6 +25051,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.DESCRIPTION"
 msgid "Buildings designed to help sick Duplicants heal and minimize the spread of <link=\"DISEASE\">Disease</link>."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CLINIC.ROOMSREQUIRING
@@ -24908,6 +25073,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.DESCRIPTION"
 msgid "Buildings that transform individual ingredients into delicious meals."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.COOKTOP.ROOMSREQUIRING"
 msgid "    • <link=\"KITCHEN\">Kitchen</link>"
@@ -24923,6 +25093,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.DESCRIPTION"
 msgid "Buildings that facilitate the movement of <link=\"CREATURES\">Critters</link> from one location to another."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.CREATURERELOCATOR.TITLE"
 msgid "Critter Relocators"
@@ -24931,6 +25106,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.DESCRIPTION"
 msgid "Buildings that give the colony a valuable aesthetic boost, and allow Duplicants to express themselves creatively.\n\nSome rooms require Fancy Decor items, which contribute extra-high levels of aesthetic enhancement."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.DECORATION.ROOMSREQUIRING
@@ -24948,6 +25128,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.DESCRIPTION"
 msgid "Buildings that give Duplicants a sanitary and dignified place to conduct essential \"business\"...and then flush away the evidence."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.FLUSHTOILETTYPE.ROOMSREQUIRING"
 msgid "    • <link=\"PLUMBEDBATHROOM\">Washroom</link>"
@@ -24961,6 +25146,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.DESCRIPTION"
 msgid "Buildings that generate the <link=\"POWER\">Power</link> required to run machinery in my colony.\n\nBasic requirements can be met with an entry-level generator, but heavier-duty buildings are essential to colony development."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.GENERATORTYPE.ROOMSREQUIRING
@@ -24983,6 +25173,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.DESCRIPTION"
 msgid "Buildings that generate power, manufacture equipment, refine resources, and provide other fundamental colony requirements."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.INDUSTRIALMACHINERY.TITLE"
 msgid "Industrial Machinery"
@@ -24991,6 +25186,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.DESCRIPTION"
 msgid "Buildings that produce light, either by design or as a result of their primary operations."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.LIGHTSOURCE.ROOMSREQUIRING
@@ -25013,6 +25213,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.DESCRIPTION"
 msgid "Buildings that generate, manage or store the electrical power a colony needs to thrive and expand."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.POWERBUILDING.ROOMSREQUIRING"
 msgid "    • <link=\"POWERPLANT\">Power Plant</link>"
@@ -25026,6 +25231,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.DESCRIPTION"
 msgid "Buildings dedicated to <link=\"CREATURES\">Critter</link> husbandry."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RANCHSTATIONTYPE.ROOMSREQUIRING
@@ -25043,6 +25253,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.DESCRIPTION"
 msgid "Buildings that provide essential support for fragile Duplicant <link=\"MORALE\">Morale</link>."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.RECBUILDING.ROOMSREQUIRING"
 msgid "    • <link=\"GREATHALL\">Great Hall</link> \n    • <link=\"RECROOM\">Recreation Room</link>"
@@ -25058,6 +25273,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.DESCRIPTION"
 msgid "Buildings that must be built inside a rocket."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.ROCKETINTERIOR.TITLE"
 msgid "Rocket Interior"
@@ -25066,6 +25286,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.DESCRIPTION"
 msgid "Buildings that allow Duplicants to learn about the world around them, and beyond."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.SCIENCEBUILDING.ROOMSREQUIRING
@@ -25098,6 +25323,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.DESCRIPTION"
 msgid "Buildings that give Duplicants a sanitary and dignified place to conduct essential \"business.\""
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.ROOMSREQUIRING
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.TOILETTYPE.ROOMSREQUIRING"
 msgid "    • <link=\"LATRINE\">Latrine</link>\n    • <link=\"HOSPITAL\">Hospital</link>"
@@ -25113,6 +25343,11 @@ msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.DESCRIPTION"
 msgid "Buildings that Duplicants will visit when they are suffering the effects of cold environments."
 msgstr ""
 
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.FLAVOUR"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WARMINGSTATION.TITLE"
 msgid "Warming Stations"
@@ -25121,6 +25356,11 @@ msgstr ""
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION
 msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.DESCRIPTION"
 msgid "Buildings that remove <link=\"DISEASE\">disease</link>-spreading germs from Duplicant bodies. Not all wash stations require plumbing."
+msgstr ""
+
+#. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.FLAVOUR
+msgctxt "STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.FLAVOUR"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.ROOM_REQUIREMENT_CLASS.WASHSTATION.ROOMSREQUIRING
@@ -25358,6 +25598,11 @@ msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.BODY.CONTAINER1"
 msgid "Spaced Out Trailer"
 msgstr ""
 
+#. STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE
+msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.SUBTITLE"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE
 msgctxt "STRINGS.CODEX.SO_LAUNCH_TRAILER.TITLE"
 msgid "Spaced Out Trailer"
@@ -25376,6 +25621,11 @@ msgstr ""
 #. STRINGS.CODEX.SPACETREE.TITLE
 msgctxt "STRINGS.CODEX.SPACETREE.TITLE"
 msgid "Bonbon Tree"
+msgstr ""
+
+#. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1
+msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1"
+msgid ""
 msgstr ""
 
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.SUBTITLE
@@ -26218,6 +26468,11 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.HOLIDAYCARD.BODY.CONTAINER1"
 msgid "Hey kiddo,\n\nWe missed you at your cousin's wedding last weekend. The gift was nice, but the dance floor felt empty without you.\n\nDariush sends his love. He's really turned a corner since he started eating those gooey pudding things you sent over. Any chance you have a version that doesn't smell like feet?\n\nCome home sometime when you're not so busy.\n\n- Baba\n------------------\n"
 msgstr ""
 
+#. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.HOLIDAYCARD.SUBTITLE
+msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.HOLIDAYCARD.SUBTITLE"
+msgid ""
+msgstr ""
+
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.HOLIDAYCARD.TITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.HOLIDAYCARD.TITLE"
 msgid "Pudding Cups"
@@ -27053,6 +27308,11 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.BUTTONS.REPAIR_CONT
 msgid "Reconnect this building's  <style=\"KKeyword\">Steel</style> plumbing system to restore function"
 msgstr ""
 
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.DESCRIPTION"
+msgid ""
+msgstr ""
+
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MESSAGE_BODY
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.MESSAGE_BODY"
 msgid "Though the journey has been long and marked by challenges that often seemed insurmountable, we have prevailed in harnessing this planet's core potential.\n\nWe now stand proudly at the precipice of a sustainably powered future...it is deeply humbling.\n\nI am hopeful that we have learned enough to wield this machinery more wisely than those who came before us."
@@ -27171,6 +27431,11 @@ msgstr ""
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER_ONLINE_TOOLTIP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_CONTROLLER_ONLINE_TOOLTIP"
 msgid "Reconnect this building's <style=\"KKeyword\">Steel</style> pipes to restore functionality\n\nClick to show this building"
+msgstr ""
+
+#. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_ONLINE_DESC
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_ONLINE_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.SIDESCREENS.BRING_ONLINE_TITLE
@@ -27336,6 +27601,11 @@ msgstr ""
 #. STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_TOOLTIP
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.ACTIVATEGEOTHERMALPLANT.STATUSITEMS.VENT.VENTING_TOOLTIP"
 msgid "This geo vent is currently emitting materials\n\nIt has {Quantity} of materials left to emit before this process is complete"
+msgstr ""
+
+#. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.DESCRIPTION"
+msgid ""
 msgstr ""
 
 #. STRINGS.COLONY_ACHIEVEMENTS.DISTANT_PLANET_REACHED.MESSAGE_BODY
@@ -28223,6 +28493,11 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.PRE_VICTORY_MESSAGE_HEADER"
 msgid "- ALERT -"
 msgstr ""
 
+#. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.DESCRIPTION"
+msgid ""
+msgstr ""
+
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.MESSAGE_BODY"
 msgid "In exploring this corner of the universe we have found and assembled a collection of artifacts from another civilization. Studying these artifacts can give us a greater understanding of who we are and where we come from. Only by learning about the past can we build a brighter future, one where we learn from the mistakes of our predecessors."
@@ -28301,6 +28576,11 @@ msgstr ""
 #. STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.STUDY_ARTIFACTS.VIDEO_TEXT_DLC1.SECOND"
 msgid "DLC1"
+msgstr ""
+
+#. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.DESCRIPTION
+msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.DESCRIPTION"
+msgid ""
 msgstr ""
 
 #. STRINGS.COLONY_ACHIEVEMENTS.THRIVING.MESSAGE_BODY
@@ -28398,6 +28678,11 @@ msgctxt "STRINGS.CREATURES.ATTRIBUTES.FERTILITYDELTA.NAME"
 msgid "Reproduction Rate"
 msgstr ""
 
+#. STRINGS.CREATURES.ATTRIBUTES.INCUBATIONDELTA.DESC
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.INCUBATIONDELTA.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.CREATURES.ATTRIBUTES.INCUBATIONDELTA.NAME
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.INCUBATIONDELTA.NAME"
 msgid "Incubation Rate"
@@ -28433,6 +28718,11 @@ msgctxt "STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.TOOLTIP"
 msgid "Determines how long this <style=\"KKeyword\">Critter</style> takes to replenish its natural supply of <style=\"KKeyword\">Brackene</style>."
 msgstr ""
 
+#. STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.NAME
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.NAME"
 msgid "Power Charge Loss Rate"
@@ -28456,6 +28746,11 @@ msgstr ""
 #. STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.TOOLTIP
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.TOOLTIP"
 msgid "Determines how long this <style=\"KKeyword\">Critter's</style> scales will take to grow back."
+msgstr ""
+
+#. STRINGS.CREATURES.ATTRIBUTES.VIABILITYDELTA.DESC
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.VIABILITYDELTA.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.ATTRIBUTES.VIABILITYDELTA.NAME
@@ -28808,9 +29103,19 @@ msgctxt "STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_DEADLY.NAME"
 msgid "Deadly Temperature"
 msgstr ""
 
+#. STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_DEADLY.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_DEADLY.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_UNCOMFORTABLE.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_UNCOMFORTABLE.NAME"
 msgid "Uncomfortable Body Temperature"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_UNCOMFORTABLE.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.CRITTER_TEMPERATURE_UNCOMFORTABLE.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.CRITTERCONDOINTERACTEFFECT.NAME
@@ -30748,6 +31053,11 @@ msgctxt "STRINGS.CREATURES.SPECIES.PINKROCK.DESC"
 msgid "Lumen quartz emits a soft glowing <link=\"LIGHT\">Light</link> that makes everything look and feel a little rosier.\n\nIt's even brighter and more beautiful once it's been carved."
 msgstr ""
 
+#. STRINGS.CREATURES.SPECIES.PINKROCK.EFFECT
+msgctxt "STRINGS.CREATURES.SPECIES.PINKROCK.EFFECT"
+msgid ""
+msgstr ""
+
 #. STRINGS.CREATURES.SPECIES.PINKROCK.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PINKROCK.NAME"
 msgid "Lumen Quartz"
@@ -30756,6 +31066,11 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.PINKROCKCARVED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.DESC"
 msgid "A Duplicant has carved this Lumen quartz in a way that really maximizes its <link=\"DECOR\">Decor</link> value and <link=\"LIGHT\">brightness</link>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.PINKROCKCARVED.EFFECT
+msgctxt "STRINGS.CREATURES.SPECIES.PINKROCKCARVED.EFFECT"
+msgid ""
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.PINKROCKCARVED.NAME
@@ -33913,6 +34228,11 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
 msgid "Hygiene"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.IMMUNELEVELDELTA.NAME"
 msgid "Immunity"
@@ -34258,6 +34578,11 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.SPEED_MODIFIER"
 msgid "{0} Rocket Speed"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina"
@@ -34336,6 +34661,11 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOTAL_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOTAL_VALUE"
 msgid "\n\nTotal <b>{1}</b>: {0}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
@@ -36448,6 +36778,11 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
 msgstr ""
 
+#. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERFROMHEAT.NAME"
 msgid "Recover from Heat"
@@ -37116,6 +37451,16 @@ msgstr ""
 #. STRINGS.DUPLICANTS.CHORES.WATERDAMAGEZAP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.WATERDAMAGEZAP.TOOLTIP"
 msgid "Glitching is a symptom of Bionic Duplicant systems malfunctioning due to contact with incompatible <style=\"KKeyword\">Liquids</style>"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.NAME
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.NAME"
+msgid ""
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC
@@ -40046,6 +40391,16 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.ROOMBEDROOM.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROOMBEDROOM.TOOLTIP"
 msgid "This Duplicant slept in a <style=\"KKeyword\">Luxury Barracks</style> last night and feels extra refreshed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROOMBIONICUPKEEP.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROOMGREATHALL.NAME
@@ -46933,6 +47288,11 @@ msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
 msgstr ""
 
+#. STRINGS.ELEMENTS.AEROGEL.DESC
+msgctxt "STRINGS.ELEMENTS.AEROGEL.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.AEROGEL.NAME
 msgctxt "STRINGS.ELEMENTS.AEROGEL.NAME"
 msgid "<link=\"AEROGEL\">Aerogel</link>"
@@ -48418,6 +48778,11 @@ msgctxt "STRINGS.ELEMENTS.SAND.NAME"
 msgid "<link=\"SAND\">Sand</link>"
 msgstr ""
 
+#. STRINGS.ELEMENTS.SANDCEMENT.DESC
+msgctxt "STRINGS.ELEMENTS.SANDCEMENT.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.ELEMENTS.SANDCEMENT.NAME
 msgctxt "STRINGS.ELEMENTS.SANDCEMENT.NAME"
 msgid "<link=\"SANDCEMENT\">Sand Cement</link>"
@@ -48491,6 +48856,11 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
 msgid "<link=\"SOLIDCHLORINE\">Solid Chlorine</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDCRUDEOIL.DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDCRUDEOIL.NAME
@@ -52518,6 +52888,11 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC"
 msgid "Allows Duplicants to breathe in hazardous environments.\n\nDoes not work when submerged in <style=\"liquid\">Liquid</style>"
 msgstr ""
 
+#. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.EFFECT"
 msgid "Allows Duplicants to breathe while submerged in <style=\"liquid\">Liquid</style>.\n\nDoes not work outside of liquid."
@@ -55918,9 +56293,19 @@ msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.ENTRY"
 msgid "FIRST LAW\nEnergy can neither be created or destroyed, only change forms.\n\nSECOND LAW\nEntropy in an isolated system that is not in equilibrium tends to increase over time, approaching the maximum value at equilibrium.\n\nTHIRD LAW\nEntropy in a system approaches a constant minimum as temperature approaches absolute zero.\n\nZEROTH LAW\nIf two thermodynamic systems are in thermal equilibrium with a third, then they are in thermal equilibrium with each other."
 msgstr ""
 
+#. STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER1.HEADER"
+msgid ""
+msgstr ""
+
 #. STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY
 msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.ENTRY"
 msgid "A powerful stench emanates from this locker."
+msgstr ""
+
+#. STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER
+msgctxt "STRINGS.LORE.BUILDINGS.SET_LOCKER2.HEADER"
+msgid ""
 msgstr ""
 
 #. STRINGS.LORE.BUILDINGS.SET_OBJECT.BODY.CONTAINER1
@@ -56458,9 +56843,19 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.NAME"
 msgid "The colony is entering a cloud of gas"
 msgstr ""
 
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDARRIVING.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.NAME"
 msgid "The gas cloud is receding"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDDEPARTING.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
@@ -56468,9 +56863,19 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
 msgid "The colony is once again in open space"
 msgstr ""
 
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDWARNING.NAME
@@ -56811,6 +57216,26 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP"
 msgid "My colony is not producing any new <link=\"OXYGEN\">Oxygen</link>\n\n<link=\"MINERALDEOXIDIZER\">Oxygen Diffusers</link> can be built from the <b>Oxygen Tab</b> {Hotkey/Plan2}"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.NOALERTS.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.TOOLTIP"
+msgid ""
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOMESSAGES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.OUTPUTBLOCKED.NAME
@@ -58028,6 +58453,11 @@ msgctxt "STRINGS.MISC.TAGS.BUILDABLEANY"
 msgid "<link=\"BUILDABLEANY\">General Buildable</link>"
 msgstr ""
 
+#. STRINGS.MISC.TAGS.BUILDABLEANY_DESC
+msgctxt "STRINGS.MISC.TAGS.BUILDABLEANY_DESC"
+msgid ""
+msgstr ""
+
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
 msgid "<link=\"BUILDABLEPROCESSED\">Refined Mineral</link>"
@@ -58516,6 +58946,11 @@ msgstr ""
 #. STRINGS.MISC.TAGS.PLUMBABLE
 msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
 msgid "<link=\"PLUMBABLE\">Plumbable</link>"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.PLUMBABLE_DESC
+msgctxt "STRINGS.MISC.TAGS.PLUMBABLE_DESC"
+msgid ""
 msgstr ""
 
 #. STRINGS.MISC.TAGS.POLYPROPYLENE
@@ -63223,6 +63658,11 @@ msgctxt "STRINGS.ROOMS.CATEGORY.BATHROOM.NAME"
 msgid "Washroom"
 msgstr ""
 
+#. STRINGS.ROOMS.CATEGORY.BIONIC.NAME
+msgctxt "STRINGS.ROOMS.CATEGORY.BIONIC.NAME"
+msgid ""
+msgstr ""
+
 #. STRINGS.ROOMS.CATEGORY.FOOD.NAME
 msgctxt "STRINGS.ROOMS.CATEGORY.FOOD.NAME"
 msgid "Dining"
@@ -64231,6 +64671,46 @@ msgstr ""
 #. STRINGS.ROOMS.TYPES.BEDROOM.TOOLTIP
 msgctxt "STRINGS.ROOMS.TYPES.BEDROOM.TOOLTIP"
 msgid "Sleeping in a Luxury Barracks will improve Duplicants' Morale"
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.DESCRIPTION"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.EFFECT"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.NAME
+msgctxt "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.BIONIC_UPKEEP.TOOLTIP"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONICUPKEEP.DESCRIPTION
+msgctxt "STRINGS.ROOMS.TYPES.BIONICUPKEEP.DESCRIPTION"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONICUPKEEP.EFFECT
+msgctxt "STRINGS.ROOMS.TYPES.BIONICUPKEEP.EFFECT"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONICUPKEEP.NAME
+msgctxt "STRINGS.ROOMS.TYPES.BIONICUPKEEP.NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.ROOMS.TYPES.BIONICUPKEEP.TOOLTIP
+msgctxt "STRINGS.ROOMS.TYPES.BIONICUPKEEP.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.ROOMS.TYPES.CONFLICTED
@@ -67413,6 +67893,16 @@ msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.CRITERIA.CHECKDEAD"
 msgid "Check dead"
 msgstr ""
 
+#. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.CRITERIA_CHECK_CAPACITY.FAIL
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.CRITERIA_CHECK_CAPACITY.FAIL"
+msgid ""
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.CRITERIA_CHECK_CAPACITY.PASS
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.CRITERIA_CHECK_CAPACITY.PASS"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.DEAD_BATTERY
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.DEAD_BATTERY"
 msgid "    • One or more batteries have died"
@@ -68698,6 +69188,11 @@ msgctxt "STRINGS.UI.DEBUG_TOOLS.DEBUG_ACTIVE"
 msgid "Debug tools active"
 msgstr ""
 
+#. STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT
+msgctxt "STRINGS.UI.DEBUG_TOOLS.ENTER_TEXT"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION
 msgctxt "STRINGS.UI.DEBUG_TOOLS.INVALID_LOCATION"
 msgid "Invalid Location"
@@ -68871,6 +69366,11 @@ msgstr ""
 #. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION
 msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
 msgid "Thank you for playing <color=#F44A47>Oxygen Not Included</color>!"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
@@ -72818,6 +73318,11 @@ msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_NOTOWNED_TOOLTIP"
 msgid "This DLC is available now!"
 msgstr ""
 
+#. STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_LABEL
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_LABEL"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.DLC.CONTENT_OWNED_NOTINSTALLED_TOOLTIP"
 msgid "This DLC is owned but not currently installed"
@@ -76443,6 +76948,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ADVANCED.NAME"
 msgid "Advanced"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.ADVANCED.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ADVANCED.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.ARCHAEOLOGY.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ARCHAEOLOGY.BUILDMENUTITLE"
 msgid "Archaeology"
@@ -76453,6 +76963,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ARCHAEOLOGY.NAME"
 msgid "Archaeology"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.ARCHAEOLOGY.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ARCHAEOLOGY.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.BUILDMENUTITLE"
 msgid "Automated"
@@ -76461,6 +76976,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.NAME"
 msgid "Automated"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.AUTOMATED.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.BASE.NAME
@@ -76483,6 +77003,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BATTERIES.NAME"
 msgid "Batteries"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.BATTERIES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BATTERIES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.BEDS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BEDS.BUILDMENUTITLE"
 msgid "Beds"
@@ -76491,6 +77016,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.BEDS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BEDS.NAME"
 msgid "Beds"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.BEDS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BEDS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.BUILDMENUPORTS.BUILDMENUTITLE
@@ -76503,6 +77033,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BUILDMENUPORTS.NAME"
 msgid "Ports"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.BUILDMENUPORTS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.BUILDMENUPORTS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.CARGO.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CARGO.BUILDMENUTITLE"
 msgid "Cargo"
@@ -76513,6 +77048,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CARGO.NAME"
 msgid "Cargo"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.CARGO.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CARGO.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.BUILDMENUTITLE"
 msgid "Pipe Sensors"
@@ -76521,6 +77061,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.NAME"
 msgid "Pipe Sensors"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONDUITSENSORS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCE.BUILDMENUTITLE
@@ -76548,6 +77093,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCESTRUCTURES.NAME"
 msgid "Structural"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCESTRUCTURES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.CONVEYANCESTRUCTURES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.COOKING.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.COOKING.BUILDMENUTITLE"
 msgid "Cooking"
@@ -76556,6 +77106,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.COOKING.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.COOKING.NAME"
 msgid "Cooking"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.COOKING.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.COOKING.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.DECOR.BUILDMENUTITLE
@@ -76583,6 +77138,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.DINING.NAME"
 msgid "Dining"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.DINING.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.DINING.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.DOORS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.DOORS.BUILDMENUTITLE"
 msgid "Doors"
@@ -76591,6 +77151,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.DOORS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.DOORS.NAME"
 msgid "Doors"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.DOORS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.DOORS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.BUILDMENUTITLE
@@ -76603,6 +77168,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.NAME"
 msgid "Converters"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ELECTROBANKBUILDINGS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.BUILDMENUTITLE"
 msgid "Engines"
@@ -76611,6 +77181,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.NAME"
 msgid "Engines"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ENGINES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.EQUIPMENT.BUILDMENUTITLE
@@ -76638,6 +77213,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FARMING.NAME"
 msgid "Farming"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.FARMING.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FARMING.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.BUILDMENUTITLE"
 msgid "Fittings"
@@ -76646,6 +77226,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.NAME"
 msgid "Fittings"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FOODANDAGRICULTURE.NAME
@@ -76681,6 +77266,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.GENERATORS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.GENERATORS.NAME"
 msgid "Generators"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.GENERATORS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.GENERATORS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.HEALTHANDHAPPINESS.NAME
@@ -76728,6 +77318,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.INDUSTRIALSTATION.NAME"
 msgid "Industrial"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.INDUSTRIALSTATION.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.INDUSTRIALSTATION.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.INFRASTRUCTURE.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.INFRASTRUCTURE.NAME"
 msgid "<link=\"BUILDCATEGORYINFRASTRUCTURE\">Utilities</link>"
@@ -76748,6 +77343,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LADDERS.NAME"
 msgid "Ladders"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.LADDERS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LADDERS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.BUILDMENUTITLE"
 msgid "Lights"
@@ -76756,6 +77356,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.NAME"
 msgid "Lights"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LIGHTS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.LOGICAUDIO.BUILDMENUTITLE
@@ -76768,6 +77373,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICAUDIO.NAME"
 msgid "Ambience"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.LOGICAUDIO.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICAUDIO.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.LOGICGATES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICGATES.BUILDMENUTITLE"
 msgid "Gates"
@@ -76778,6 +77388,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICGATES.NAME"
 msgid "Gates"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.LOGICGATES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICGATES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.BUILDMENUTITLE"
 msgid "Monitoring"
@@ -76786,6 +77401,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.NAME"
 msgid "Monitoring"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.LOGICMANAGER.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.LOGISTICS.NAME
@@ -76808,6 +77428,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MANUFACTURING.NAME"
 msgid "Manufacturing"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.MANUFACTURING.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MANUFACTURING.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.BUILDMENUTITLE"
 msgid "Materials"
@@ -76816,6 +77441,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.NAME"
 msgid "Materials"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MATERIALS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.MEDICAL.BUILDMENUTITLE
@@ -76843,6 +77473,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.METEORDEFENSE.NAME"
 msgid "Meteor Defense"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.METEORDEFENSE.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.METEORDEFENSE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.BUILDMENUTITLE"
 msgid "Meteor Defense"
@@ -76851,6 +77486,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.NAME"
 msgid "Meteor Defense"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MISSILES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.MODULE.BUILDMENUTITLE
@@ -76863,6 +77503,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MODULE.NAME"
 msgid "Modules"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.MODULE.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.MODULE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.OIL.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OIL.BUILDMENUTITLE"
 msgid "Oil"
@@ -76871,6 +77516,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.OIL.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OIL.NAME"
 msgid "Oil"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.OIL.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OIL.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.BUILDMENUTITLE
@@ -76883,6 +77533,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.NAME"
 msgid "Operations"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OPERATIONS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.BUILDMENUTITLE"
 msgid "Organic"
@@ -76891,6 +77546,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.NAME"
 msgid "Organic"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.OXYGEN.BUILDMENUTITLE
@@ -76918,6 +77578,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PIPES.NAME"
 msgid "Pipes"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.PIPES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PIPES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE"
 msgid "Plumbing"
@@ -76943,6 +77608,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PORTS.NAME"
 msgid "Ports"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.PORTS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PORTS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.BUILDMENUTITLE"
 msgid "Power Regulation"
@@ -76951,6 +77621,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.NAME"
 msgid "Power\nRegulation"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.POWERCONTROL.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PRINTINGPODS.BUILDMENUTITLE
@@ -76963,6 +77638,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PRINTINGPODS.NAME"
 msgid "Printing Pods"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.PRINTINGPODS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PRINTINGPODS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.BUILDMENUTITLE"
 msgid "Production"
@@ -76971,6 +77651,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.NAME"
 msgid "Production"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PRODUCERS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PUMPS.BUILDMENUTITLE
@@ -76983,6 +77668,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PUMPS.NAME"
 msgid "Pumps"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.PUMPS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PUMPS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.BUILDMENUTITLE"
 msgid "Ranching"
@@ -76991,6 +77681,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.NAME"
 msgid "Ranching"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RECREATION.BUILDMENUTITLE
@@ -77033,6 +77728,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RESEARCH.NAME"
 msgid "Research"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.RESEARCH.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RESEARCH.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.BUILDMENUTITLE"
 msgid "Navigation"
@@ -77041,6 +77741,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.NAME"
 msgid "Navigation"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETNAV.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETRY.BUILDMENUTITLE
@@ -77068,6 +77773,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETSTRUCTURES.NAME"
 msgid "Structural"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETSTRUCTURES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETSTRUCTURES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.BUILDMENUTITLE"
 msgid "Sanitation"
@@ -77076,6 +77786,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.NAME"
 msgid "Sanitation"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SANITATION.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.SCRUBBERS.BUILDMENUTITLE
@@ -77088,6 +77803,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SCRUBBERS.NAME"
 msgid "Purification"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.SCRUBBERS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SCRUBBERS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.BUILDMENUTITLE"
 msgid "Sensors"
@@ -77096,6 +77816,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.NAME"
 msgid "Sensors"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SENSORS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.STORAGE.BUILDMENUTITLE
@@ -77108,6 +77833,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.STORAGE.NAME"
 msgid "Storage"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.STORAGE.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.STORAGE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.SWITCHES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SWITCHES.BUILDMENUTITLE"
 msgid "Switches"
@@ -77118,6 +77848,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SWITCHES.NAME"
 msgid "Switches"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.SWITCHES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.SWITCHES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.TANKS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TANKS.BUILDMENUTITLE"
 msgid "Tanks"
@@ -77126,6 +77861,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.TANKS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TANKS.NAME"
 msgid "Tanks"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.TANKS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TANKS.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.TELESCOPES.BUILDMENUTITLE
@@ -77153,6 +77893,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TEMPERATURE.NAME"
 msgid "Temperature"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.TEMPERATURE.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TEMPERATURE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.TILES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TILES.BUILDMENUTITLE"
 msgid "Tiles and Drywall"
@@ -77161,6 +77906,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.TILES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TILES.NAME"
 msgid "Tiles and Drywall"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.TILES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TILES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.TRANSMISSIONS.BUILDMENUTITLE
@@ -77173,6 +77923,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRANSMISSIONS.NAME"
 msgid "Transmissions"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.TRANSMISSIONS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRANSMISSIONS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.BUILDMENUTITLE"
 msgid "Transit Tubes"
@@ -77181,6 +77936,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.NAME"
 msgid "Transit Tubes"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.TRANSPORT.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.UTILITIES.BUILDMENUTITLE
@@ -77193,6 +77953,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.UTILITIES.NAME"
 msgid "Temperature"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.UTILITIES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.UTILITIES.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.VALVES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.VALVES.BUILDMENUTITLE"
 msgid "Valves"
@@ -77201,6 +77966,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.VALVES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.VALVES.NAME"
 msgid "Valves"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.VALVES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.VALVES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.VENTILATIONSTRUCTURES.BUILDMENUTITLE
@@ -77228,6 +77998,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WASHROOM.NAME"
 msgid "Washroom"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.WASHROOM.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WASHROOM.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.WELLNESS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WELLNESS.BUILDMENUTITLE"
 msgid "Wellness"
@@ -77238,6 +78013,11 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WELLNESS.NAME"
 msgid "Wellness"
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.WELLNESS.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WELLNESS.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.WIRES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WIRES.BUILDMENUTITLE"
 msgid "Wires"
@@ -77246,6 +78026,11 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.WIRES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WIRES.NAME"
 msgid "Wires"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.WIRES.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.WIRES.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.OUTFIT_BROWSER_SCREEN.BUTTON_ADD_OUTFIT
@@ -79301,6 +80086,16 @@ msgstr ""
 #. STRINGS.UI.PRIORITYSCREEN.DIAGRAM_TITLE
 msgctxt "STRINGS.UI.PRIORITYSCREEN.DIAGRAM_TITLE"
 msgid "BUILDING PRIORITY"
+msgstr ""
+
+#. STRINGS.UI.PRIORITYSCREEN.HIGH
+msgctxt "STRINGS.UI.PRIORITYSCREEN.HIGH"
+msgid ""
+msgstr ""
+
+#. STRINGS.UI.PRIORITYSCREEN.HIGH_TOGGLE
+msgctxt "STRINGS.UI.PRIORITYSCREEN.HIGH_TOGGLE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.OPEN_JOBS_SCREEN
@@ -83113,6 +83908,11 @@ msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.ASTRONAUT_TITLE"
 msgid "Astronaut"
 msgstr ""
 
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.FAILURE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.READY"
 msgid "Cargo Transfer Complete"
@@ -83121,6 +83921,11 @@ msgstr ""
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.STATUS.WARNING"
 msgid "Cargo Transfer Complete"
+msgstr ""
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.FAILURE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CARGO_TRANSFER_COMPLETE.TOOLTIP.READY
@@ -83221,6 +84026,11 @@ msgstr ""
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.READY"
 msgid "The rocket's launch path is clear for takeoff"
+msgstr ""
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.WARNING
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.FLIGHT_PATH_CLEAR.TOOLTIP.WARNING"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.HAS_CARGO_BAY_FOR_NOSECONE_HARVEST.STATUS.FAILURE
@@ -83433,6 +84243,11 @@ msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATU
 msgid "Landers Ready"
 msgstr ""
 
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.WARNING
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.STATUS.WARNING"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.FAILURE"
 msgid "Additional landers must be constructed to fulfill the lander requests of this rocket"
@@ -83443,6 +84258,16 @@ msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLT
 msgid "All requested landers have been built and are ready for deployment"
 msgstr ""
 
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.WARNING
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.INTERNAL_CONSTRUCTION_COMPLETE.TOOLTIP.WARNING"
+msgid ""
+msgstr ""
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.FAILURE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.READY"
 msgid "Cargo Loading Complete"
@@ -83451,6 +84276,11 @@ msgstr ""
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.STATUS.WARNING"
 msgid "Cargo Loading Complete"
+msgstr ""
+
+#. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.FAILURE
+msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.FAILURE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.LOADING_COMPLETE.TOOLTIP.READY
@@ -84488,9 +85318,19 @@ msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ADAPTIVETEMPERATURE.NAME"
 msgid "Adapt. Temperature"
 msgstr ""
 
+#. STRINGS.UI.TOOLS.FILTERLAYERS.ADAPTIVETEMPERATURE.TOOLTIP
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ADAPTIVETEMPERATURE.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.NAME
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.NAME"
 msgid "Agriculture"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.TOOLTIP
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.AGRICULTURE.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ALL.NAME
@@ -84516,6 +85356,11 @@ msgstr ""
 #. STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.NAME"
 msgid "Attack"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.TOOLTIP
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ATTACK.TOOLTIP"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.BACKWALL.NAME
@@ -85721,6 +86566,11 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
 msgid "Set Building Priority {Hotkey}\n\nDuplicant Priorities</style> {Hotkey/ManagePriorities} are calculated <i>before</i> the <style=\"KKeyword\">Building Priorities</style> set by this tool"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.TOOLTIPS.RADIATIONOVERLAYSTRING
@@ -87958,6 +88808,11 @@ msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TRUNCATED_CHORES"
 msgid "{0} more"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.MODULAR_CONDUIT_PORT_SIDE_SCREEN.DESCRIPTION
+msgctxt "STRINGS.UI.UISIDESCREENS.MODULAR_CONDUIT_PORT_SIDE_SCREEN.DESCRIPTION"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.MODULAR_CONDUIT_PORT_SIDE_SCREEN.LABEL_BOTH
 msgctxt "STRINGS.UI.UISIDESCREENS.MODULAR_CONDUIT_PORT_SIDE_SCREEN.LABEL_BOTH"
 msgid "Load/Unload"
@@ -88843,6 +89698,11 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.BUILDBUTTON"
 msgid "Build"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.FAILED"
 msgid "• Must install at bottom of rocket"
@@ -88858,6 +89718,11 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MATERIALS_A
 msgid "• Materials unavailable"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED"
 msgid "• Engine's height limit reached or exceeded"
@@ -88868,9 +89733,19 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.
 msgid "• Rocket requires space for an engine"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.FAILED"
 msgid "• Max module limit of engine reached"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.COMPLETE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.FAILED
@@ -88878,14 +89753,29 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND
 msgid "• Command module already installed"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.FAILED"
 msgid "• Engine module already installed"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ROBOPILOT_PER_ROCKET.FAILED"
 msgid "• Robo-Pilot module already installed"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.COMPLETE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.FAILED
@@ -88903,9 +89793,19 @@ msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.RESEARCHED.
 msgid "Research Incomplete"
 msgstr ""
 
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.COMPLETE"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.FAILED"
 msgid "• Space above rocket blocked"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.COMPLETE
+msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.COMPLETE"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.FAILED
@@ -89351,6 +90251,11 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_TOOLTIP_BELOW"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the number of <style=\"KKeyword\">Germs</style> is below <b>{0}</b>"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS
+msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.DISEASE_UNITS"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.HEPS
@@ -91706,6 +92611,11 @@ msgstr ""
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
 msgid "Loading world..."
+msgstr ""
+
+#. STRINGS.UI.WORLDGEN.NOHEADERS
+msgctxt "STRINGS.UI.WORLDGEN.NOHEADERS"
+msgid ""
 msgstr ""
 
 #. STRINGS.UI.WORLDGEN.NORMALISENOISE
