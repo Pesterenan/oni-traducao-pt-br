@@ -22,3 +22,10 @@ for file in "${FILES[@]}"; do
 done
 
 echo "Build concluído! Arquivos copiados para a pasta $DIST_DIR."
+
+# Cria o arquivo TGZ com a data de hoje
+COMPRESSED_FILE="oni-traducao-$(date +%Y%m%d).tgz"
+
+# Cria o TGZ na pasta dist
+tar -czf "./$COMPRESSED_FILE" $(printf '%s ' "${FILES[@]}")
+echo "Arquivo de build: $COMPRESSED_FILE"

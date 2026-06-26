@@ -1,2 +1,5 @@
 # Build dir
 dist/
+
+# Build artifacts
+oni-traducao-*
