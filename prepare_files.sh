@@ -10,7 +10,7 @@ fi
 mkdir "$DIST_DIR"
 
 # Lista de arquivos que devem ser copiados
-FILES=("mod_info.yaml" "README.md" "LICENSE" "strings.mo" "strings.po")
+FILES=("mod.yaml" "mod_info.yaml" "README.md" "LICENSE" "strings.mo" "strings.po" "preview.png")
 
 # Copia cada arquivo para a pasta dist
 for file in "${FILES[@]}"; do
