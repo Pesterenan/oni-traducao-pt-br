@@ -15565,7 +15565,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.EFFECT"
-msgid "Grows one <link=\"PLANTS\">Plant</link> from a <link=\"PLANTS\">Seed</link>.\n\nCan be used as floor tile and rotated before construction.\n\nMust be irrigated through <link=\"LIQUIDPIPING\">Liquid Piping</link>."
+msgid "Grows one <link=\"PLANTS\">Plant</link> from a <link=\"PLANTS\">Seed</link>.\n\nCan be used as floor tile and rotated before construction.\n\nSome plants must be irrigated through <link=\"LIQUIDPIPING\">Liquid Piping</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME
@@ -23730,12 +23730,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.DESC"
-msgid "Duplicants catch their breath faster by using a breathing station than by surfacing for air."
+msgid "Submerged Duplicants recover their breath faster by using a breathing station than by surfacing for air."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.EFFECT"
-msgid "Provides breathable <link=\"OXYGEN\">Oxygen</link> to submerged Duplicants via a connected <link=\"GASPIPING\">Gas Pipe</link> input."
+msgid "Provides breathable <link=\"OXYGEN\">Oxygen</link> to Duplicants in suffocating environments via a connected <link=\"GASPIPING\">Gas Pipe</link> input."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.UNDERWATERBREATHINGSTATION.NAME
@@ -24190,7 +24190,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIDEFARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIDEFARMTILE.EFFECT"
-msgid "Grows one extra-large <link=\"PLANTS\">Plant</link> from a <link=\"PLANTS\">Seed</link>.\n\nCan be used as floor tile.\n\nMust be irrigated through <link=\"LIQUIDPIPING\">Liquid Piping</link>"
+msgid "Grows one extra-large <link=\"PLANTS\">Plant</link> from a <link=\"PLANTS\">Seed</link>.\n\nCan be used as floor tile.\n\nSome plants must be irrigated through <link=\"LIQUIDPIPING\">Liquid Piping</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.WIDEFARMTILE.NAME
@@ -26948,6 +26948,11 @@ msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED"
 msgid "<link=\"CREATURES::GUIDE::MOOD\">Confined</link> when a room is smaller than <b>{0} cells</b>."
 msgstr ""
 
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED_AQUATIC
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED_AQUATIC"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Confined</link> when a pool is smaller than <b>{0} cells</b>."
+msgstr ""
+
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE"
 msgid "This critter's typical <link=\"CREATURES::GUIDE::FERTILITY\">Life Span</link> is <b>{0} cycles</b>."
@@ -26961,6 +26966,11 @@ msgstr ""
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING"
 msgid "<link=\"CREATURES::GUIDE::MOOD\">Crowded</link> when a room has less than <b>{0} cells</b> of space for each critter."
+msgstr ""
+
+#. STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING_AQUATIC
+msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING_AQUATIC"
+msgid "<link=\"CREATURES::GUIDE::MOOD\">Crowded</link> when a pool has less than <b>{0} cells</b> of space for each critter."
 msgstr ""
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE
@@ -27180,7 +27190,7 @@ msgstr ""
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1"
-msgid "Each species has its own space requirements. Critters who find themselves in a room that they consider too small will feel confined. They will feel the same way if they become stuck in a door or tile. Critters will not reproduce while they are in this state.\n\nShove Voles are the exception to this rule: their tunneling instincts make them quite comfortable in snug spaces, and they never feel confined."
+msgid "Each species has its own space requirements. Critters who find themselves in a room or pool that they consider too small will feel confined. They will feel the same way if they become stuck in a door or tile. Critters will not reproduce while they are in this state.\n\nShove Voles are the exception to this rule: their tunneling instincts make them quite comfortable in snug spaces, and they never feel confined."
 msgstr ""
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE
@@ -27285,7 +27295,7 @@ msgstr ""
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1"
-msgid "This occurs when a critter is in a room that's appropriately sized for its needs but feels that there are too many other critters sharing the same space. Because each species has its own space requirements, this state can vary among occupants of the same room.\n\nThis emotional state intensifies in response to the number of excess critters: adding new critters to an already crowded room will undermine a critter's happiness even further."
+msgid "This occurs when a critter is in a room or pool that's appropriately sized for its needs but feels that there are too many other critters sharing the same space. Because each species has its own space requirements, this state can vary among occupants of the same room.\n\nThis emotional state intensifies in response to the number of excess critters: adding new critters to an already crowded room will undermine a critter's happiness even further."
 msgstr ""
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.OVERCROWDED_HAPPY1
@@ -27840,7 +27850,7 @@ msgstr ""
 
 #. STRINGS.CODEX.FISHFOOD.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.FISHFOOD.BODY.CONTAINER2"
-msgid "A gourmet loaf of ground seeds and <link=\"WATER\">Water</link>, formulated to delight <link=\"PACU\">Pacus</link>."
+msgid "A gourmet loaf of ground seeds and <link=\"WATER\">Water</link>, formulated to delight <link=\"PACUSPECIES\">Pacus</link>."
 msgstr ""
 
 #. STRINGS.CODEX.FISHFOOD.SUBTITLE
@@ -29245,7 +29255,7 @@ msgstr ""
 
 #. STRINGS.CODEX.INVESTIGATIONS.DLC5_PRINTANOMALY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.INVESTIGATIONS.DLC5_PRINTANOMALY.BODY.CONTAINER1"
-msgid "<smallcaps>[Log Fragmentation Detected]\n[Voice Recognition Unavailable]</smallcaps>\n\n[LOG BEGINS]\n\nA216: Commencing exploratory reprint of donor number 890, \"Anemone,\" adult female,  103 centimeters, 30 kilgrams.\n\nTech: Copy that.\n\n(sound of a machine powering up)\n\nA216: Printing subject in three... two...\n\n(sound of a machine whining to a halt)\n\nA216: Ugh, can you <i>please</i> clean out the secondary tank? There are still traces from yesterday's reprint.\n\nTech: Sorry, Doctor. I thought I got it all.\n\n(sound of a machine powering up)\n\n(sound of electricity crackling)\n\nA216: Printing subject in three... two... one... Stand back, please.\n\nTech: Reprint complete. Subject number is 2988, \"Anemone-93.\" Adult female, 103 centimeters, 30 kilgrams. Subject is conscious and appears fully formed. No observable physical abnormalities noted. A216: Initiate vitals scan.\n\nTech: Scan complete. Pupil size, skin temperature, limb formation and distribution are all typical, except... huh. The respiration rate... it's... there doesn't really seem to be one.\n\nA216: I swear, this equipment gets less and less reliable by the day. Recalibrate the printing pod and run it again.\n\nTech: But that will take the rest of the night, Doctor.\n\nA216: The sooner you start, the sooner it will be done. Bring me the updated results when they're ready.\n\n[LOG ENDS]\n\n----------------------\n\n[LOG BEGINS]\n\nTech: Doctor Surahashi? Oh! I'm sorry to interrupt, Doctor Broussard.\n\nOlivia: It's quite all right. I invited myself when I saw last night's anomaly on my feed. \n\nA216: It may be nothing, again. We've had a few inconsistencies since the earthquakes started.\n\nTech: Um... actually...\n\nA216: Well?\n\nTech: I... well, look.\n\nOlivia: My god. It's true.\n\nA216: Hmm. Flood the tank.\n\nTech: Yes, Doctor.\n\nOlivia: What? No! She'll drown!\n\nA216: With all due respect, Dr. Broussard, further testing is crucial. This isn't just another vestigial ear. If this anomaly can be confirmed and replicated-Olivia: -We've just given humanity a whole new category of possible colony sites. I am aware.\n\nA216: Correct. For what it's worth, I am reasonably confident that Anemone-93's oxygen consumption is so low as to make fatality extremely unlikely. But I understand if you would prefer to step out of the room for a moment.\n\nOlivia: No, I-I'll stay.\n\nTech: Tank filling in three...two...\n\n(sound of rushing water)\n\nTech: Tank maximum volume has been reached.\n\nA216: Subject appears unaffected by the change in environment.\n\nOlivia: Incredible.\n\nA216: Indeed.\n\nA216: Maintain liquid levels and monitor subject's response. I want to know exactly how long vitals remain steady.\n\nTech: Yes, Doctor.\n\n[LOG ENDS]\n\n"
+msgid "<smallcaps>[Log Fragmentation Detected]\n[Voice Recognition Unavailable]</smallcaps>\n\n[LOG BEGINS]\n\nA216: Commencing exploratory reprint of donor number 890, \"Anemone,\" adult female,  103 centimeters, 30 kilgrams.\n\nTech: Copy that.\n\n(sound of a machine powering up)\n\nA216: Printing subject in three... two...\n\n(sound of a machine whining to a halt)\n\nA216: Ugh, can you <i>please</i> clean out the secondary tank? There are still traces from yesterday's reprint.\n\nTech: Sorry, Doctor. I thought I got it all.\n\n(sound of a machine powering up)\n\n(sound of electricity crackling)\n\nA216: Printing subject in three... two... one... Stand back, please.\n\nTech: Reprint complete. Subject number is 2988, \"Anemone-93.\" Adult female, 103 centimeters, 30 kilograms. Subject is conscious and appears fully formed. No observable physical abnormalities noted.\n\nA216: Initiate vitals scan.\n\nTech: Scan complete. Pupil size, skin temperature, limb formation and distribution are all typical, except... huh. The respiration rate... it's... there doesn't really seem to be one.\n\nA216: I swear, this equipment gets less and less reliable by the day. Recalibrate the printing pod and run it again.\n\nTech: But that will take the rest of the night, Doctor.\n\nA216: The sooner you start, the sooner it will be done. Bring me the updated results when they're ready.\n\n[LOG ENDS]\n\n----------------------\n\n[LOG BEGINS]\n\nTech: Doctor Saruhashi? Oh! I'm sorry to interrupt, Doctor Broussard.\n\nOlivia: It's quite all right. I invited myself when I saw last night's anomaly on my feed. \n\nA216: It may be nothing, again. We've had a few inconsistencies since the earthquakes started.\n\nTech: Um... actually...\n\nA216: Well?\n\nTech: I... well, look.\n\nOlivia: My god. It's true.\n\nA216: Hmm. Flood the tank.\n\nTech: Yes, Doctor.\n\nOlivia: What? No! She'll drown!\n\nA216: With all due respect, Dr. Broussard, further testing is crucial. This isn't just another vestigial ear. If this anomaly can be confirmed and replicated-Olivia: -We've just given humanity a whole new category of possible colony sites. I am aware.\n\nA216: Correct. For what it's worth, I am reasonably confident that Anemone-93's oxygen consumption is so low as to make fatality extremely unlikely. But I understand if you would prefer to step out of the room for a moment.\n\nOlivia: No, I-I'll stay.\n\nTech: Tank filling in three...two...\n\n(sound of rushing water)\n\nTech: Tank maximum volume has been reached.\n\nA216: Subject appears unaffected by the change in environment.\n\nOlivia: Incredible.\n\nA216: Indeed.\n\nA216: Maintain liquid levels and monitor subject's response. I want to know exactly how long vitals remain steady.\n\nTech: Yes, Doctor.\n\n[LOG ENDS]\n\n"
 msgstr ""
 
 #. STRINGS.CODEX.INVESTIGATIONS.DLC5_PRINTANOMALY.SUBTITLE
@@ -30161,6 +30171,11 @@ msgstr ""
 #. STRINGS.CODEX.PACU.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER1"
 msgid "The Pacu fish is often interpreted as possessing a vacant stare due to its large and unblinking eyes, yet they are remarkably bright and friendly creatures."
+msgstr ""
+
+#. STRINGS.CODEX.PACU.BODY.CONTAINER2
+msgctxt "STRINGS.CODEX.PACU.BODY.CONTAINER2"
+msgid "Feeding a Pacu its favorite <link=\"PACUTREAT\">Pacu Treat</link> helps tame it and keep it content."
 msgstr ""
 
 #. STRINGS.CODEX.PACU.SPECIES_SUBTITLE
@@ -31735,7 +31750,7 @@ msgstr ""
 
 #. STRINGS.CODEX.SNAIL_IRON_SHELL.TITLE
 msgctxt "STRINGS.CODEX.SNAIL_IRON_SHELL.TITLE"
-msgid "Ferrgo Molt"
+msgid "Gildgo Molt"
 msgstr ""
 
 #. STRINGS.CODEX.SNAIL_SHELL.BODY.CONTAINER1
@@ -32048,6 +32063,11 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BELLY"
 msgid "Specimen produced substantial stool sample. Review data for more information."
 msgstr ""
 
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BUTTERFLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.BUTTERFLY"
+msgid "This critter tucked its wings tightly around itself during scanning. Review data for more information."
+msgstr ""
+
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CHAMELEON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES.CHAMELEON"
 msgid "Scanning interrupted due to instrument displacement caused by specimen's lingual grasp.\n\nReview data for more information."
@@ -32201,6 +32221,11 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BELLY
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BELLY"
 msgid "Specimen produced substantial stool sample directly onto scanner bed.\n\nRemarkably, its white coat remained pristine. Analysis of coat fibers revealed that each follicle is sealed with polytetrafluoroethylene, providing strong stain resistance."
+msgstr ""
+
+#. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BUTTERFLY
+msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.BUTTERFLY"
+msgid "This critter tucked its wings tightly around itself during scanning, and used its antennae to roll its body around the chamber.\n\nIt seems that these sensory organs possess more musculature than those of similar species, despite their unassuming appearance. Of particular note: the critter's refusal to engage in this behavior outside of this contained environment."
 msgstr ""
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.SPECIES_ENTRIES_EXPANDED.CHAMELEON
@@ -36373,6 +36398,16 @@ msgctxt "STRINGS.CREATURES.MODIFIERS.INITIALLYPOLLINATED.TOOLTIP"
 msgid "This plant was initially pollinated"
 msgstr ""
 
+#. STRINGS.CREATURES.MODIFIERS.JAWBOFOOD.NAME
+msgctxt "STRINGS.CREATURES.MODIFIERS.JAWBOFOOD.NAME"
+msgid "Ate Cooked Seafood"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.JAWBOFOOD.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.JAWBOFOOD.TOOLTIP"
+msgid "This critter recently ate <style=\"KKeyword\">Cooked Seafood</style>\n\nNom nom nom!"
+msgstr ""
+
 #. STRINGS.CREATURES.MODIFIERS.MISERABLE.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.MISERABLE.NAME"
 msgid "Mood: Miserable"
@@ -39185,7 +39220,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.SEATURTLE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEATURTLE.DESC"
-msgid "Orehulls are shy aquatic critters that eat <link=\"SEAFAIRYSPECIES\">Kelpoles</link> and excrete <link=\"TOXICSAND\">Polluted Dirt</link>.\n\nThey can be sheared for <link=\"IRONORE\">Iron Ore</link>."
+msgid "Orehulls are shy aquatic critters that eat <link=\"SEAFAIRYSPECIES\">Kelpoles</link> and excrete <link=\"TOXICMUD\">Polluted Mud</link>.\n\nThey can be sheared for <link=\"IRONORE\">Iron Ore</link>."
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.SEATURTLE.EGG_NAME
@@ -40451,6 +40486,16 @@ msgstr ""
 #. STRINGS.CREATURES.STATS.MOISTURE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.MOISTURE.TOOLTIP"
 msgid "At 0% <style=\"KKeyword\">Moisture</style>, this critter will die\n\nMoisture can be restored by submerging the critter in <style=\"KKeyword\">Liquid</style>"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.PHOTOSYNTHESIS.NAME
+msgctxt "STRINGS.CREATURES.STATS.PHOTOSYNTHESIS.NAME"
+msgid "Light\n    • Minimum: {LUX}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.PHOTOSYNTHESIS.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.PHOTOSYNTHESIS.TOOLTIP"
+msgid "This plant requires at least {LUX} of <style=\"KKeyword\">Light</style> to produce <style=\"KKeyword\">Oxygen</style>"
 msgstr ""
 
 #. STRINGS.CREATURES.STATS.ROT.NAME
@@ -46140,7 +46185,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.MINNOW.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.MINNOW.DESC"
-msgid "This Duplicant is practically amphibious"
+msgid "This Duplicant is practically amphibious\n\n• +4 to all attributes when swimming"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.MINNOW.NAME
@@ -54696,6 +54741,11 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
 msgid "Emits low amounts of rads and light"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_NO_MORALE_COST
+msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_NO_MORALE_COST"
+msgid "This Duplicant begins with a pre-learned <style=\"KKeyword\">Skill</style>, but does not have increased <style=\"KKeyword\">Morale Requirements</style>."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC
@@ -64720,17 +64770,17 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FISHFOOD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FISHFOOD.DESC"
-msgid "A gourmet loaf of ground seeds and <link=\"WATER\">Water</link>, formulated to delight <link=\"PACU\">Pacus</link>."
+msgid "A gourmet loaf of ground seeds and <link=\"WATER\">Water</link>, formulated to delight <link=\"PACUSPECIES\">Pacus</link>."
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FISHFOOD.NAME
 msgctxt "STRINGS.ITEMS.FOOD.FISHFOOD.NAME"
-msgid "<link=\"PACUSPECIES\">Pacu Treat</link>"
+msgid "<link=\"PACUTREAT\">Pacu Treat</link>"
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FISHFOOD.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FISHFOOD.RECIPEDESC"
-msgid "A gourmet loaf of ground seeds, specially formulated for Pacus."
+msgid "A gourmet loaf of ground seeds, specially formulated for <link=\"PACUSPECIES\">Pacus</link>."
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FISHMEAT.DESC
@@ -65840,7 +65890,7 @@ msgstr ""
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLANKTON_CORAL_PRODUCT.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLANKTON_CORAL_PRODUCT.DESC"
-msgid "A chunk of hardened mineral.\n\nIt can be eaten by <link=\"PARROTFISHSPECIES\">Beakons</link>."
+msgid "A chunk of hardened mineral.\n\nIt can be eaten by <link=\"PARROTFISHSPECIES\">Beakons</link>, or processed into various useful items."
 msgstr ""
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.PLANKTON_CORAL_PRODUCT.NAME
