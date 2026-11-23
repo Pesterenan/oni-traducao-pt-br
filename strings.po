@@ -3729,6 +3729,8 @@ msgid ""
 "Lined with quadruple-layered interfacing that provides unmatched textile "
 "strength."
 msgstr ""
+"Revestido com interligação em camadas quádruplas que proporciona uma "
+"resistência têxtil inigualável."
 
 #. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_HATCH.NAME
 #, fuzzy
@@ -3758,6 +3760,8 @@ msgid ""
 "This vegetable-dyed ombre suit looks right at home while jetting around a farm "
 "<i>or</i> the sky."
 msgstr ""
+"Este traje em degradê tingido com corantes vegetais parece estar no lugar "
+"certo enquanto você voa por volta de uma fazenda <i>ou</i> do céu."
 
 #. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_PIP.NAME
 #, fuzzy
@@ -3773,6 +3777,8 @@ msgid ""
 "Let he who has never dreamed of flying alongside the magnificent Puft throw "
 "the first ore chunk."
 msgstr ""
+"Que lance a primeira bolinha de minério quem nunca sonhou em voar ao lado do "
+"magnífico Bolha."
 
 #. STRINGS.BLUEPRINTS.PERMIT_JETSUIT_PUFT.NAME
 #, fuzzy
@@ -3842,7 +3848,7 @@ msgstr "Roupa de Voo Aerodinâmica"
 #. STRINGS.BLUEPRINTS.PERMIT_KILN_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_KILN_HATCH.DESC"
 msgid "Inspired by the digestive system of the colony's favorite totumvore."
-msgstr ""
+msgstr "Inspirado no sistema digestivo do 'tudóvoro' favorito da colônia."
 
 #. STRINGS.BLUEPRINTS.PERMIT_KILN_HATCH.NAME
 #, fuzzy
@@ -3855,7 +3861,7 @@ msgstr "<link=\"KILN\">Forno</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_HATCH.DESC"
 msgid "Overengineered for extreme sturdiness."
-msgstr ""
+msgstr "Excessivamente projetado para extrema solidez."
 
 #. STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_HATCH.NAME
 #, fuzzy
@@ -3868,7 +3874,7 @@ msgstr "<link=\"BOTTLEEMPTIER\">Esvaziador de Garrafas</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_PIP.DESC"
 msgid "Makes the whole bottle emptying experience feel quite organic."
-msgstr ""
+msgstr "Faz toda a experiência de esvaziar a garrafa parecer bem orgânica."
 
 #. STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_PIP.NAME
 #, fuzzy
@@ -3883,6 +3889,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_PUFT.DESC"
 msgid ""
 "Duplicants can't help but giggle every time they watch this building work."
 msgstr ""
+"Os Duplicantes não conseguem evitar rir toda vez que assistem a essa estrutura "
+"funcionando."
 
 #. STRINGS.BLUEPRINTS.PERMIT_LIQUIDATOR_PUFT.NAME
 #, fuzzy
@@ -4446,6 +4454,8 @@ msgstr ""
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_HATCH.DESC"
 msgid "Spits out a nice, shiny version of whatever it's been \"fed.\""
 msgstr ""
+"Cospe uma versão bonita e brilhante de qualquer coisa que tenha sido "
+"\"alimentada\" nela."
 
 #. STRINGS.BLUEPRINTS.PERMIT_METALREFINERY_HATCH.NAME
 #, fuzzy
@@ -4482,6 +4492,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_HATCH.DESC"
 msgid ""
 "Unlike its critter namesake, this building cannot, in fact, consume rocks."
 msgstr ""
+"Diferente de seu homônimo de criatura, essa estrutura não pode, de fato, "
+"consumir rochas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_HATCH.NAME
 #, fuzzy
@@ -4507,6 +4519,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_PIP.DESC"
 msgid ""
 "Designed to make this oxygen source blend seamlessly into natural environments."
 msgstr ""
+"Projetado para fazer essa fonte de oxigênio se misturar bem em ambientes "
+"naturais."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MINERALDEOXIDIZER_PIP.NAME
 #, fuzzy
@@ -4889,7 +4903,7 @@ msgstr "Cabeça de Liam"
 #. STRINGS.BLUEPRINTS.PERMIT_OUTHOUSE_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_OUTHOUSE_PIP.DESC"
 msgid "A natural place to answer Nature's call."
-msgstr ""
+msgstr "Um lugar natural para atender ao chamado da Natureza."
 
 #. STRINGS.BLUEPRINTS.PERMIT_OUTHOUSE_PIP.NAME
 #, fuzzy
@@ -4903,6 +4917,7 @@ msgstr "<link=\"OUTHOUSE\">Privada</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_OXYLITE_REFINERY_HATCH.DESC"
 msgid "Burps up a portable chunk of a life-sustaining bubbly compound."
 msgstr ""
+"Arrota uma porção portátil de um composto efervescente que mantém a vida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_OXYLITE_REFINERY_HATCH.NAME
 #, fuzzy
@@ -5272,6 +5287,8 @@ msgid ""
 "The perfect sleepwear for indiscriminate snackers who need to camouflage food "
 "stains."
 msgstr ""
+"O pijama perfeito para os comilões indiscriminados que precisam camuflar as "
+"manchas de comida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_HATCH.NAME
 #, fuzzy
@@ -5287,6 +5304,8 @@ msgid ""
 "Sleepwear for the Duplicant who likes to stash seeds in their pockets \"for "
 "later.\""
 msgstr ""
+"Pijamas para o Duplicante que gosta de guardar sementes nos bolsos \"pra mais "
+"tarde.\""
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PIP.NAME
 #, fuzzy
@@ -5300,6 +5319,8 @@ msgstr "Pijamas Biônicos"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_PLUSH_HATCH.DESC"
 msgid "An ultra-cozy hooded Hatch suit made from thick bioengineered fleece."
 msgstr ""
+"Um macacão de capuz Chocoso ultra-aconchegante feito de lã bioengenheirada "
+"grossa."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PLUSH_HATCH.NAME
 #, fuzzy
@@ -5315,6 +5336,8 @@ msgid ""
 "This plush one-piece suit immediately makes its wearer appear 10 times more "
 "adorable than usual."
 msgstr ""
+"Este macacão de pelúcia de uma peça imediatamente faz seu usuário parecer 10 "
+"vezes mais fofo do que o normal."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PLUSH_PIP.NAME
 #, fuzzy
@@ -5328,6 +5351,8 @@ msgstr "Tops e Macacões"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_PLUSH_PUFT.DESC"
 msgid "A comfy pull-on suit with an unfortunately functional posterior trunk."
 msgstr ""
+"Um macacão confortável de vestir com uma tromba traseira funcional, "
+"infelizmente."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PLUSH_PUFT.NAME
 #, fuzzy
@@ -5340,7 +5365,7 @@ msgstr "Bolha Príncipe"
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PJ_PUFT.DESC"
 msgid "The buttons are quite eye-catching."
-msgstr ""
+msgstr "Os botões são bem chamativos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PJ_PUFT.NAME
 #, fuzzy
@@ -5354,7 +5379,7 @@ msgstr "Pijamas da Sorte"
 #. STRINGS.BLUEPRINTS.PERMIT_PLANTERBOX_PIP_C2.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PLANTERBOX_PIP_C2.DESC"
 msgid "A box that blooms, whether or not its contents have wilted."
-msgstr ""
+msgstr "Uma caixa que floresce, mesmo que seu conteúdo tenha murchado ou não."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PLANTERBOX_PIP_C2.NAME
 #, fuzzy
@@ -5370,6 +5395,8 @@ msgid ""
 "It's much more effective than trying to train critters to handle micronutrient "
 "fertilizer responsibly."
 msgstr ""
+"É muito mais eficiente do que tentar ensinar criaturas a lidar com "
+"fertilizante de micronutrientes de forma responsável."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PLANTTENDER_PIP.NAME
 #, fuzzy
@@ -5415,6 +5442,8 @@ msgid ""
 "Sometimes, Duplicants will close their eyes and try to remember how many spots "
 "it has."
 msgstr ""
+"Às vezes, os Duplicantes fecham os olhos e tentam lembrar quantos pontos ela "
+"tem."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_HATCH.NAME
 #, fuzzy
@@ -5454,6 +5483,8 @@ msgid ""
 "No one talks about how hard it is for the janitor to keep all these textured "
 "surfaces clean."
 msgstr ""
+"Ninguém fala sobre o quão difícil é para o faxineiro manter todas essas "
+"superfícies texturizadas limpas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_PIP.NAME
 #, fuzzy
@@ -5468,6 +5499,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_PUFT.DESC"
 msgid ""
 "Duplicants can be a bit squeamish about touching the eyeball knob on the lever."
 msgstr ""
+"Os Duplicantes podem ficar um pouco enjoados sobre tocar no botão em formato "
+"de olho da alavanca."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PORTA_POD_Y_PUFT.NAME
 #, fuzzy
@@ -5497,6 +5530,8 @@ msgstr "Conjunto de Atmo-Traje Bolha"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PUMPGAS_PUFT.DESC"
 msgid "Deep in the bowels of a colony, this building pumps away faithfully."
 msgstr ""
+"Nas profundas entranhas de uma colônia, essa estrutura continua bombeando "
+"fielmente."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PUMPGAS_PUFT.NAME
 #, fuzzy
@@ -5510,6 +5545,7 @@ msgstr "<link=\"GASPUMP\">Bomba de Gás</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PUMPLIQUID_PUFT.DESC"
 msgid "Pulls liquids in, pumps them out. Or rather, \"pufts\" them out."
 msgstr ""
+"Aspira os líquidos, e os bombeia pra fora. Ou melhor, os \"borbulha\" pra fora."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PUMPLIQUID_PUFT.NAME
 #, fuzzy
@@ -5548,7 +5584,7 @@ msgstr "<link=\"RANCHSTATION\">Estação de Cuidados Coberta de Vegetação</lin
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_HATCH.DESC"
 msgid "Makes even the most rough-and-tumble critters feel special."
-msgstr ""
+msgstr "Faz até as criaturas mais rústicas se sentirem especiais."
 
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_HATCH.NAME
 #, fuzzy
@@ -5574,6 +5610,8 @@ msgid ""
 "The little Pip plushie keeps critters company while they're getting fussed "
 "over."
 msgstr ""
+"A pelúcia de Esquilete faz companhia às criaturas enquanto elas ficam "
+"arrumadinhas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_PIP.NAME
 #, fuzzy
@@ -5586,7 +5624,7 @@ msgstr "<link=\"RANCHSTATION\">Estação de Cuidados</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_PUFT.DESC"
 msgid "It's impossible to miss!"
-msgstr ""
+msgstr "É impossível não notar!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_PUFT.NAME
 #, fuzzy
@@ -5633,7 +5671,7 @@ msgstr ""
 #. STRINGS.BLUEPRINTS.PERMIT_ROCKREFINERY_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ROCKREFINERY_HATCH.DESC"
 msgid "It just can't get enough of that cronchy cronch."
-msgstr ""
+msgstr "Ele simplesmente não consegue parar de nhac, nhac, nhac."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ROCKREFINERY_HATCH.NAME
 #, fuzzy
@@ -5886,6 +5924,7 @@ msgstr "Tênis com Cadarço"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SHOES_SCOUT_SCUM.DESC"
 msgid "Sturdy boots paired with warm, machine-knitted crew socks."
 msgstr ""
+"Botas resistentes combinadas com meias-calças mornas de tricô feito em máquina."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SHOES_SCOUT_SCUM.NAME
 #, fuzzy
@@ -5997,6 +6036,8 @@ msgstr "Shorts de Escoteiro"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SHORTS_SCOUT_HATCHSTONE.DESC"
 msgid "A comfy pair of shorts perfectly suited for animal husbandry work."
 msgstr ""
+"Um par confortável de calções perfeitamente adequados para trabalhos de "
+"criação de animais."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SHORTS_SCOUT_HATCHSTONE.NAME
 #, fuzzy
@@ -6289,6 +6330,8 @@ msgid ""
 "The purple patches soldered onto its exterior reinforce the structure in "
 "illogical areas."
 msgstr ""
+"As manchas roxas soldadas em seu exterior reforçam a estrutura em áreas "
+"ilógicas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_HATCH_C2.NAME
 #, fuzzy
@@ -6314,6 +6357,8 @@ msgstr "<link=\"STORAGELOCKER\">Armazenador Neutrônio Real</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_PIP_C2.DESC"
 msgid "Storing items here feels like feeding a small, sentient tree."
 msgstr ""
+"Guardar itens aqui parece ser o mesmo que alimentar uma pequena árvore "
+"senciente."
 
 #. STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_PIP_C2.NAME
 #, fuzzy
@@ -6329,6 +6374,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_PUFT_C2.DESC"
 msgid ""
 "It has a permanently grumpy expression, no matter what gets stored inside."
 msgstr ""
+"Ele tem uma expressão permanentemente zangada, não importa o que seja guardado "
+"dentro."
 
 #. STRINGS.BLUEPRINTS.PERMIT_STORAGELOCKER_PUFT_C2.NAME
 #, fuzzy
@@ -6391,6 +6438,7 @@ msgstr "Traje Aquático Crista da Onda"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOILETFLUSH_HATCH.DESC"
 msgid "An industrial-grade toilet for Duplicants with serious blockages."
 msgstr ""
+"Um vaso sanitário de grau industrial para Duplicantes com bloqueios sérios."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOILETFLUSH_HATCH.NAME
 #, fuzzy
@@ -6404,7 +6452,7 @@ msgstr "<link=\"FLUSHTOILET\">Vaso Sanitário</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_TOILETFLUSH_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOILETFLUSH_PUFT.DESC"
 msgid "Why is the toilet paper so...textured?"
-msgstr ""
+msgstr "Por que o papel higiênico é tão...texturizado?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOILETFLUSH_PUFT.NAME
 #, fuzzy
@@ -6817,6 +6865,8 @@ msgid ""
 "It's paired with a tungsten-fiber neckerchief that can hold the weight of four "
 "adult critters in an emergency."
 msgstr ""
+"É combinado com um lenço de pescoço de fibra de tungstênio capaz de sustentar "
+"o peso de quatro criaturas adultas em uma emergência."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_SCOUT_HATCHSTONE.NAME
 #, fuzzy
@@ -7037,6 +7087,7 @@ msgstr "Ponte de Fio Condutivo Lima"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_VENTGAS_PUFT.DESC"
 msgid "Usually not an exit that workers would enjoy lingering next to."
 msgstr ""
+"Geralmente não é uma saída que os trabalhadores gostariam de ficar por perto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_VENTGAS_PUFT.NAME
 #, fuzzy
@@ -7365,6 +7416,7 @@ msgstr "<link=\"EXTERIORWALL\">Escultura de Lomburro</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_HATCH.DESC"
 msgid "An all-over print featuring the Hatch's familiar monochromatic spots."
 msgstr ""
+"Uma estampa extravagante com os familiares pontos monocromáticos do Chocoso."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_HATCH.NAME
 #, fuzzy
@@ -7399,6 +7451,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_PIP.DESC"
 msgid ""
 "An all-over print that zooms into the leaf-like texture of a Pip's swishy mane."
 msgstr ""
+"Uma estampa extravagante que dá zoom na textura em formato de folha da juba "
+"fofa da Esquilete."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_PIP.NAME
 #, fuzzy
@@ -7422,6 +7476,7 @@ msgstr "<link=\"EXTERIORWALL\">Digital Náutica</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_PUFT.DESC"
 msgid "Faux-fur walls for the true Puft connoisseur. So fluffy!"
 msgstr ""
+"Paredes de pelo artificial para o verdadeiro apreciador de Bolhas. Tão fofo!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_PUFT.NAME
 #, fuzzy
@@ -7622,7 +7677,7 @@ msgstr "<link=\"EXTERIORWALL\">X Alga</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.DESC"
 msgid "Warm-hued stones with a small heap of algae in the foreground."
-msgstr ""
+msgstr "Pedras de tons quentes com um pequeno monte de algas em primeiro plano."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.NAME
 #, fuzzy
@@ -7635,7 +7690,7 @@ msgstr "<link=\"EXTERIORWALL\">Roxo Pastel</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_BOTTOM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_BOTTOM.DESC"
 msgid "A cactus stem firmly planted in a mound of algae."
-msgstr ""
+msgstr "Um caule de cacto firmemente plantado em um monte de algas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_BOTTOM.NAME
 #, fuzzy
@@ -7648,7 +7703,7 @@ msgstr "<link=\"EXTERIORWALL\">Faixa de Areia</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_CURVE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_CURVE.DESC"
 msgid "A cactus stem that took a 90-degree turn."
-msgstr ""
+msgstr "Um caule de cacto que fez uma curva de 90 graus."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_CURVE.NAME
 #, fuzzy
@@ -7663,7 +7718,7 @@ msgstr "<link=\"EXTERIORWALL\">Curvas de Eca</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_MIDDLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_MIDDLE.DESC"
 msgid "These arms weren't made for hugging."
-msgstr ""
+msgstr "Esses braços não foram feitos para abraçar."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_MIDDLE.NAME
 #, fuzzy
@@ -7679,6 +7734,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_PIP.DESC"
 msgid ""
 "A guileless Pip clings to a spiky stem, oblivious to the plant's many spikes."
 msgstr ""
+"Uma Esquilete sem maldade agarrada a um caule espinhoso, sem perceber os "
+"muitos espinhos da planta."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_PIP.NAME
 #, fuzzy
@@ -7691,7 +7748,7 @@ msgstr "<link=\"EXTERIORWALL\">Pixel Lomburro</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_TOP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_TOP.DESC"
 msgid "The spiky top end of a prickly plant."
-msgstr ""
+msgstr "A ponta espinhosa de uma planta espinhosa."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_TOP.NAME
 #, fuzzy
@@ -7707,6 +7764,8 @@ msgid ""
 "Is it a symbol of hope blooming in prickly circumstances, or just a cool "
 "little plant hat?"
 msgstr ""
+"É um símbolo de esperança florescendo em circunstâncias espinhosas, ou apenas "
+"um boné de planta legal?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_TOP_FLOWER.NAME
 #, fuzzy
@@ -7719,7 +7778,7 @@ msgstr "<link=\"EXTERIORWALL\">Role Dois</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_GRASS.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_GRASS.DESC"
 msgid "A trio of grass blades sprouts from a small heap of algae."
-msgstr ""
+msgstr "Um trio de lâminas de grama brota de um pequeno monte de algas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_GRASS.NAME
 #, fuzzy
@@ -7732,7 +7791,7 @@ msgstr "<link=\"EXTERIORWALL\">X Alga</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_A.DESC"
 msgid "A perpetually hungry critter makes an unexpected entrance."
-msgstr ""
+msgstr "Uma criatura eternamente faminta faz uma entrada inesperada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_A.NAME
 #, fuzzy
@@ -7745,7 +7804,7 @@ msgstr "<link=\"EXTERIORWALL\">Meia Onda</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_B.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_B.DESC"
 msgid "This wallpaper features a critter with perfect posture."
-msgstr ""
+msgstr "Este papel de parede apresenta uma criatura com postura perfeita."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_B.NAME
 #, fuzzy
@@ -7774,7 +7833,7 @@ msgstr "<link=\"EXTERIORWALL\">Ponto Náutico</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_D.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_D.DESC"
 msgid "These little legs are no match for gravity."
-msgstr ""
+msgstr "Essas patinhas não dão conta da gravidade."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_HATCH_D.NAME
 #, fuzzy
@@ -7788,6 +7847,7 @@ msgstr "<link=\"EXTERIORWALL\">Faixa de Areia</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_A.DESC"
 msgid "Masterfully hidden, this Pip evades notice entirely."
 msgstr ""
+"Profissionalmente escondida, esta Esquilete passa completamente despercebida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_A.NAME
 #, fuzzy
@@ -7802,6 +7862,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_B.DESC"
 msgid ""
 "A cheerful critter with its four feet firmly planted on the ground...for now."
 msgstr ""
+"Uma criatura alegre com suas quatro patas firmemente plantadas no chão...por "
+"enquanto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_B.NAME
 #, fuzzy
@@ -7815,6 +7877,7 @@ msgstr "<link=\"EXTERIORWALL\">Estampa de Nuvens</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_C.DESC"
 msgid "The serenity of a perfectly curled Pip cannot be overstated."
 msgstr ""
+"A serenidade de uma Esquilete perfeitamente enroladinha não pode ser exagerada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_C.NAME
 #, fuzzy
@@ -7828,7 +7891,7 @@ msgstr "<link=\"EXTERIORWALL\">Rosa Sólido</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_E.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_E.DESC"
 msgid "A cheerful critter posed against a sandstone-y backdrop."
-msgstr ""
+msgstr "Uma criatura alegre posou na frente de um papel de parede arenoso."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PIP_E.NAME
 #, fuzzy
@@ -7845,6 +7908,8 @@ msgid ""
 "A mouth-breathing critter hovers against a sandstone-y backdrop. It has no "
 "thoughts."
 msgstr ""
+"Uma criatura que respira pela boca flutua sobre um cenário de pedra arenosa. "
+"Não está pensando em nada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_A.NAME
 #, fuzzy
@@ -7857,7 +7922,7 @@ msgstr "<link=\"EXTERIORWALL\">Ponto Pimenta</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_B.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_B.DESC"
 msgid "This airborne critter zigged when it should have zagged."
-msgstr ""
+msgstr "Esta criatura voadora fez zigue quando devia ter feito zague."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_B.NAME
 #, fuzzy
@@ -7871,7 +7936,7 @@ msgstr "<link=\"EXTERIORWALL\">Curvas Rosa-Púrpura</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_C.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_C.DESC"
 msgid "This critter's single braincell is on standby right now."
-msgstr ""
+msgstr "A única célula cerebral desta criatura está em modo de espera agora."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_PUFT_C.NAME
 #, fuzzy
@@ -7884,7 +7949,7 @@ msgstr "<link=\"EXTERIORWALL\">Estampa de Orquíesporo</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_SANDSTONE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_SANDSTONE.DESC"
 msgid "Warm-hued stones dotted with bubbles."
-msgstr ""
+msgstr "Pedras de tons quentes pontilhadas com bolhas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_SANDSTONE.NAME
 #, fuzzy
@@ -8322,6 +8387,8 @@ msgctxt "STRINGS.BLUEPRINTS.PERMIT_WASH_BASIN_PIP.DESC"
 msgid ""
 "The perfect place to wash up after countless cycles spent working the farm."
 msgstr ""
+"O local perfeito para tomar um banho após incontáveis ciclos passados "
+"trabalhando na fazenda."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WASH_BASIN_PIP.NAME
 #, fuzzy
@@ -8334,7 +8401,7 @@ msgstr "<link=\"WASHBASIN\">Lavatório</link>"
 #. STRINGS.BLUEPRINTS.PERMIT_WASH_SINK_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WASH_SINK_HATCH.DESC"
 msgid "How clean can one's hands possibly be after washing up here?"
-msgstr ""
+msgstr "O quão limpas as mãos de alguém podem ficar depois de lavá-las aqui?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WASH_SINK_HATCH.NAME
 #, fuzzy
@@ -8348,6 +8415,7 @@ msgstr "<link=\"WASHSINK\">Pia</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WASH_SINK_PUFT.DESC"
 msgid "Patting the eyeballs does <i>not</i> help wet hands dry any faster."
 msgstr ""
+"Acariciar os olhinhos <i>não</i> ajuda as mãos molhadas a secar mais rápido."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WASH_SINK_PUFT.NAME
 #, fuzzy
@@ -8650,7 +8718,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.BREATHINGSTATIONCHARGES.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BREATHINGSTATIONCHARGES.NAME"
 msgid "Breath Charges {Current}/{Max}"
-msgstr ""
+msgstr "Cargas de Respiração {Current}/{Max}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BREATHINGSTATIONCHARGES.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BREATHINGSTATIONCHARGES.TOOLTIP"
@@ -8663,6 +8731,13 @@ msgid ""
 "Charges are automatically refilled via connected <style=\"KKeyword\">Gas "
 "Pipes</style>"
 msgstr ""
+"Esta estrutura pode armazenar até {Max} cargas de "
+"<style=\"KKeyword\">Oxigênio</style>\n"
+"\n"
+"Armazenadas atualmente: {Current}/{Max}\n"
+"\n"
+"As cargas são automaticamente recarregadas via <style=\"KKeyword\">Tubos de "
+"Gás</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME"
@@ -8712,17 +8787,19 @@ msgid ""
 "\n"
 "    • {BOOST_PROVIDER_NAME}: {BOOST_EFFECT}"
 msgstr ""
+"\n"
+"    • {BOOST_PROVIDER_NAME}: {BOOST_EFFECT}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.COUNT_TEXT
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.COUNT_TEXT"
 msgid "x{COUNT}"
-msgstr ""
+msgstr "x{COUNT}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.NAME"
 msgid "Optimized {COUNT_TEXT}"
-msgstr ""
+msgstr "Otimizado {COUNT_TEXT}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGBOOSTEDBYSUPPORTBUILDING.TOOLTIP"
@@ -8730,6 +8807,9 @@ msgid ""
 "One or more support buildings are increasing this building's speed:"
 "{BOOSTS_LIST}"
 msgstr ""
+"Um ou mais edifícios de suporte estão aumentando a velocidade desta "
+"estrutura:\n"
+"{BOOSTS_LIST}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -10297,6 +10377,10 @@ msgid ""
 "\n"
 "It requires repair"
 msgstr ""
+"O conteúdo de <style=\"KKeyword\">Gás</style> deste tubo ficou muito frio e "
+"causou dano\n"
+"\n"
+"Precisa de reparo"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.NAME"
@@ -10311,7 +10395,7 @@ msgstr "Não há nenhum <style=\"KKeyword\">Gás</style> neste tubo"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPENETWORKNOSINK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPENETWORKNOSINK.NAME"
 msgid "Pipe Network Requires Building Intake"
-msgstr ""
+msgstr "Rede de Tubos Requer Entrada de Estrutura"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPENETWORKNOSINK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPENETWORKNOSINK.TOOLTIP"
@@ -10322,6 +10406,11 @@ msgid ""
 "\n"
 "View intakes and outputs in the Ventilation Overlay {Hotkey/Overlay7}"
 msgstr ""
+"Esta rede de tubos precisa estar conectada a uma <style=\"KKeyword\">Entrada "
+"da Estrutura</style> ou a uma <style=\"KKeyword\">Saída</style> para que seu "
+"conteúdo flua\n"
+"\n"
+"Veja as entradas e saídas no Painel de Ventilação {Hotkey/Overlay7}"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME"
@@ -11185,7 +11274,7 @@ msgstr "Este <style=\"KKeyword\">Traje</style> está ancorado e reabastecendo"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPENETWORKNOSINK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPENETWORKNOSINK.NAME"
 msgid "Pipe Network Requires Building Intake"
-msgstr ""
+msgstr "Rede de Canos Requer Entrada da Estrutura"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPENETWORKNOSINK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPENETWORKNOSINK.TOOLTIP"
@@ -11196,6 +11285,11 @@ msgid ""
 "\n"
 "View intakes and outputs in the Plumbing Overlay {Hotkey/Overlay6}"
 msgstr ""
+"Esta rede de tubos precisa estar conectada a uma <style=\"KKeyword\">Entrada "
+"da Estrutura</style> ou a uma <style=\"KKeyword\">Saída</style> para que seu "
+"conteúdo flua\n"
+"\n"
+"Veja as entradas e saídas no Painel Encanamento {Hotkey/Overlay6}"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.NAME"
@@ -12772,6 +12866,10 @@ msgid ""
 "\n"
 "Blockage must be cleared before contents can be flushed"
 msgstr ""
+"<style=\"KKeyword\">Água Poluída</style> em excesso das visitas dos "
+"Duplicantes obstruiu esta <style=\"KKeyword\">Saída</style>\n"
+"\n"
+"A obstrução precisa ser removida antes que o conteúdo possa ser escoado"
 
 #. STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OUTPUTTILEBLOCKED.NAME"
@@ -13488,7 +13586,7 @@ msgstr "Este foguete está sem combustível e não pode se mover"
 #. STRINGS.BUILDING.STATUSITEMS.SANDBOXLOOKINGSANDY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SANDBOXLOOKINGSANDY.NAME"
 msgid "Beachy"
-msgstr ""
+msgstr "Praieira"
 
 #. STRINGS.BUILDING.STATUSITEMS.SANDBOXLOOKINGSANDY.TOOLTIP
 #, fuzzy
@@ -13505,7 +13603,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.SANDBOXSCULPTURECOLLAPSED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SANDBOXSCULPTURECOLLAPSED.NAME"
 msgid "Collapsed Sand Art"
-msgstr ""
+msgstr "Arte de Areia Desabada"
 
 #. STRINGS.BUILDING.STATUSITEMS.SANDBOXSCULPTURECOLLAPSED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SANDBOXSCULPTURECOLLAPSED.TOOLTIP"
@@ -13514,6 +13612,9 @@ msgid ""
 "\n"
 "Duplicants can resculpt it during their downtime"
 msgstr ""
+"Esta escultura de areia secou e desabou\n"
+"\n"
+"Os Duplicantes podem esculpir ela novamente durante o Intervalo"
 
 #. STRINGS.BUILDING.STATUSITEMS.SANDBOXSCULPTUREUNSTABLE.NAME
 #, fuzzy
@@ -13530,6 +13631,9 @@ msgid ""
 "\n"
 "It will dry out and collapse in {TIME}"
 msgstr ""
+"Esta escultura é feita de areia molhada\n"
+"\n"
+"Ela secará e desabará em {TIME}"
 
 #. STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SKILL_POINTS_AVAILABLE.NAME"
@@ -13958,6 +14062,8 @@ msgid ""
 "This support building is currently providing the {BOOST_NAME} effect to the "
 "following buildings:{BUILDING_LIST}"
 msgstr ""
+"Esta estrutura de suporte está atualmente fornecendo o efeito {BOOST_NAME} aos "
+"seguintes edifícios: {BUILDING_LIST}"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUPPORTBUILDINGINACTIVE.NAME
 #, fuzzy
@@ -13991,6 +14097,9 @@ msgid ""
 "    • No compatible buildings nearby\n"
 "    • Compatible buildings are already optimized by another support building"
 msgstr ""
+"Esta estrutura está ociosa por um dos seguintes motivos:\n"
+"    • Não há estruturas compatíveis por perto\n"
+"    • Estruturas compatíveis já estão otimizadas por outra estrutura de suporte"
 
 #. STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SWITCHSTATUSACTIVE.NAME"
@@ -14449,6 +14558,11 @@ msgid ""
 "    • Duplicants who spend at least <b>{1}</b> of their ride in Turbo Mode "
 "gain extra <style=\"KKeyword\">Morale</style>"
 msgstr ""
+"Esta estrutura está operando no máximo de <style=\"KKeyword\">Energia</style>\n"
+"\n"
+"    • Consumo de <style=\"KKeyword\">Energia</style>: <b>{0}</b>\n"
+"    • Duplicantes que gastam pelo menos <b>{1}</b> de sua viagem no Modo Turbo "
+"ganham <style=\"KKeyword\">Moral</style> extra"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -15417,6 +15531,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.DESC"
 msgid ""
 "When it's in turbo mode, this ride delivers truly dizzying levels of delight."
 msgstr ""
+"Quando está no Modo Turbo, essa atração proporciona níveis verdadeiramente "
+"vertiginosos de diversão."
 
 #. STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT
 #, fuzzy
@@ -15885,7 +16001,7 @@ msgstr "<link=\"BEEHIVE\">Ninho de Abeta</link>"
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.SUBTITLE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.SUBTITLE"
 msgid "Uranium-Refining Hostile Critter Home"
-msgstr ""
+msgstr "Habitat de Criatura Hostil Refinadora de Urânio"
 
 #. STRINGS.BUILDINGS.PREFABS.BIODIESELENGINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BIODIESELENGINE.DESC"
@@ -20758,6 +20874,8 @@ msgstr "<link=\"FOODREHYDRATOR\">Reidratador</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.FORGETOOLS.DESC"
 msgid "Things get done faster when there's safety equipment within reach."
 msgstr ""
+"As tarefas são finalizadas mais rapidamente quando há equipamento de segurança "
+"ao alcance."
 
 #. STRINGS.BUILDINGS.PREFABS.FORGETOOLS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FORGETOOLS.EFFECT"
@@ -20766,6 +20884,10 @@ msgid ""
 "\n"
 "This building does not require Duplicant operation."
 msgstr ""
+"Aumenta a velocidade de fabricação das estruturas compatíveis colocadas "
+"próximas.\n"
+"\n"
+"Esta estrutura não requer operação de Duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.FORGETOOLS.EFFECT_RESEARCH
 msgctxt "STRINGS.BUILDINGS.PREFABS.FORGETOOLS.EFFECT_RESEARCH"
@@ -20774,6 +20896,9 @@ msgid ""
 "\n"
 "<b>Compatible buildings:</b>{LIST}"
 msgstr ""
+"Aumenta a velocidade de fabricação das estruturas próximas compatíveis.\n"
+"\n"
+"<b>Estruturas compatíveis:</b>{LIST}"
 
 #. STRINGS.BUILDINGS.PREFABS.FORGETOOLS.NAME
 #, fuzzy
@@ -106786,18 +106911,6 @@ msgstr ""
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
 #, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
-#| msgid ""
-#| "<link=\"DISEASE\">Germs</link> such as <link=\"FOODPOISONING\">Food "
-#| "Poisoning</link> and <link=\"SLIMELUNG\">Slimelung</link> can cause "
-#| "<link=\"DISEASE\">Disease</link> in my Duplicants. I can use the <b>Germ "
-#| "Overlay</b> {Hotkey/Overlay9} to view all germ concentrations in my colony, "
-#| "and even detect the sources spawning them.\n"
-#| "\n"
-#| "Building Wash Basins from the <b>Medicine Tab</b> {Hotkey/Plan8} near "
-#| "colony toilets will tell my Duplicants they need to wash up.\n"
-#| "\n"
-#| "Related <link=\"VIDEOS18\">Video: Plumbing and Ventilation</link>"
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
 msgid ""
 "<link=\"DISEASE\">Germs</link> such as <link=\"FOODPOISONING\">Food Poisoning</"
@@ -106813,10 +106926,9 @@ msgid ""
 msgstr ""
 "<link=\"DISEASE\">Germes</link> como <link=\"FOODPOISONING\">Intoxicação "
 "Alimentar</link> e <link=\"SLIMELUNG\">Pulmão de Limo</link> podem causar "
-"<link=\"DISEASE\">Doenças </link> em meus Duplicantes. Posso usar a "
-"<b>Sobreposição de Germes</b> {Hotkey/Overlay9} para visualizar todas as "
-"concentrações de germes na minha colônia e até mesmo detectar as fontes que os "
-"geram.\n"
+"<link=\"DISEASE\">Doenças </link> em meus Duplicantes. Posso usar a <b>Painel "
+"de Germes</b> {Hotkey/Overlay9} para visualizar todas as concentrações de "
+"germes na minha colônia e até mesmo detectar as fontes que os geram.\n"
 "\n"
 "Construir lavatórios na <b>Aba Saúde</b> {Hotkey/Plan8} perto dos banheiros da "
 "colônia dirá aos meus duplicantes que eles precisam se lavar.\n"
@@ -107695,7 +107807,7 @@ msgstr ""
 "link> afetam a temperatura corporal interna dos meus Duplicantes e causam "
 "<link=\"STRESS\">Estresse</link indevido > ou cochilos não programados.\n"
 "\n"
-"Abrir a <b>Sobreposição de temperatura</b> {Hotkey/Overlay3} e marcar a caixa "
+"Abrir o <b>Painel de Temperatura</b> {Hotkey/Overlay3} e marcar a caixa "
 "<b>Tolerância térmica</b> me permite visualizar todas as áreas onde meus "
 "duplicantes sentirão desconforto e serão incapazes de regular a temperatura "
 "corporal interna .\n"
@@ -107724,20 +107836,6 @@ msgstr "Materiais caíram do teto nestes Duplicantes e os deslocaram:"
 
 #. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY
 #, fuzzy
-#| msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
-#| msgid ""
-#| "When constructing buildings, I should always take note of their "
-#| "<link=\"HEAT\">Overheat Temperature</link> and plan their locations "
-#| "accordingly. Maintaining low ambient temperatures and good ventilation in "
-#| "the colony will also help keep building temperatures down.\n"
-#| "\n"
-#| "The <b>Relative Temperature</b> slider tool in the <b>Temperature Overlay</"
-#| "b> {Hotkey/Overlay3} allows me to change adjust the overlay's color-coding "
-#| "in order to highlight specific temperature ranges.\n"
-#| "\n"
-#| "If I allow buildings to exceed their Overheat Temperature they will begin "
-#| "to take damage, and if left unattended, they will break down and be "
-#| "unusable until repaired."
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
 msgid ""
 "When constructing buildings, I should always take note of their "
@@ -107758,9 +107856,9 @@ msgstr ""
 "baixas temperaturas ambientes e boa ventilação na colônia também ajudará a "
 "manter baixas as temperaturas do edifício.\n"
 "\n"
-"A ferramenta deslizante <b>Temperatura relativa</b> na <b>Sobreposição de "
-"temperatura</b> {Hotkey/Overlay3} me permite alterar e ajustar o código de "
-"cores da sobreposição para destacar faixas de temperatura específicas.\n"
+"A ferramenta deslizante <b>Temperatura relativa</b> na <b>Painel de "
+"Temperatura</b> {Hotkey/Overlay3} me permite alterar e ajustar o código de "
+"cores do painel para destacar faixas de temperatura específicas.\n"
 "\n"
 "Se eu permitir que os estruturas excedam a temperatura de superaquecimento, "
 "eles começarão a sofrer danos e, se não forem supervisionados, quebrarão e "
