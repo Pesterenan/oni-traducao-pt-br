@@ -119348,6 +119348,12 @@ msgid ""
 "\n"
 "{STACK_STATUS_TOOLTIP}"
 msgstr ""
+"Essa estrutura fornece um efeito de {NAME} às estruturas compatíveis ao alcance\n"
+"\n"
+"{NAME}:\n"
+"{DESCRIPTION}\n"
+"\n"
+"{STACK_STATUS_TOOLTIP}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SUPPORTBUILDING_NO_STACKABLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.SUPPORTBUILDING_NO_STACKABLE"
@@ -121992,6 +121998,10 @@ msgid ""
 "\n"
 "Please reinstall the game to restore these files, then restart."
 msgstr ""
+"Esse mal funcionamento pode ter sido causado por arquivos de jogo faltantes ou "
+"desatualizados.\n"
+"\n"
+"Por favor reinstale o jogo para recuperar esses arquivos e então reinicie."
 
 #. STRINGS.UI.CRASHSCREEN.CORRUPTFILES_STEAM
 msgctxt "STRINGS.UI.CRASHSCREEN.CORRUPTFILES_STEAM"
@@ -122000,6 +122010,10 @@ msgid ""
 "\n"
 "Please verify your game files on Steam."
 msgstr ""
+"Esse mal funcionamento pode ter sido causado por arquivos de jogo faltantes ou "
+"desatualizados.\n"
+"\n"
+"Por favor verifique os arquivos do jogo na Steam."
 
 #. STRINGS.UI.CRASHSCREEN.CORRUPTFILES_TITLE
 #, fuzzy
@@ -122042,11 +122056,14 @@ msgid ""
 "\n"
 "Application Control policy may be interfering with the game."
 msgstr ""
+"Seu sistema operacional está impedindo a simulação de carregar.\n"
+"\n"
+"A política de Controle de Aplicativo pode estar interferindo com o jogo."
 
 #. STRINGS.UI.CRASHSCREEN.OPERATING_SYSTEM_BLOCKED_TITLE
 msgctxt "STRINGS.UI.CRASHSCREEN.OPERATING_SYSTEM_BLOCKED_TITLE"
 msgid "OS Error"
-msgstr ""
+msgstr "Erro de SO"
 
 #. STRINGS.UI.CRASHSCREEN.QUITBUTTON
 msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
@@ -122537,6 +122554,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Abismo profundo\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.ABYSSVISTA.NAME
 #, fuzzy
@@ -122553,6 +122573,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Praia\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.BEACHVISTA.NAME
 #, fuzzy
@@ -122569,6 +122592,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Caverna de Gelo\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.CERESVISTA.NAME
 #, fuzzy
@@ -122585,6 +122611,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Floresta\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.FORESTVISTA.NAME
 #, fuzzy
@@ -122601,6 +122630,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Floresta de Algas\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.KELPVISTA.NAME
 #, fuzzy
@@ -122613,12 +122645,12 @@ msgstr "Bioma de Floresta de Algas"
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.NONE.DESC
 msgctxt "STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.NONE.DESC"
 msgid "Click to disable the Printing Pod's vista projector"
-msgstr ""
+msgstr "Clique para desativar o projetor de vista da Duplicadora"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.NONE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.NONE.NAME"
 msgid "No Vista"
-msgstr ""
+msgstr "Sem Vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.PREHISTORICVISTA.DESC
 msgctxt "STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.PREHISTORICVISTA.DESC"
@@ -122627,6 +122659,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Jardim\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.PREHISTORICVISTA.NAME
 #, fuzzy
@@ -122643,11 +122678,14 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Recife\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.REEFVISTA.NAME
 msgctxt "STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.REEFVISTA.NAME"
 msgid "Reef Vista"
-msgstr ""
+msgstr "Vista do Recife"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.SANDSTONEVISTA.DESC
 msgctxt "STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.SANDSTONEVISTA.DESC"
@@ -122656,6 +122694,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Arenito\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.SANDSTONEVISTA.NAME
 #, fuzzy
@@ -122672,6 +122713,9 @@ msgid ""
 "\n"
 "Click to enable the Printing Pod to project this view"
 msgstr ""
+"Um vislumbre nas profundezas de um bioma de Pântano\n"
+"\n"
+"Clique para ativar a Duplicadora para projetar esta vista"
 
 #. STRINGS.UI.DETAILTABS.COSMETICS.VISTAS.SWAMPVISTA.NAME
 #, fuzzy
@@ -126882,7 +126926,7 @@ msgstr "N/D"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.UNAVAILABLE.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.UNAVAILABLE.TOOLTIP"
 msgid "This setting is not available for the selected asteroid"
-msgstr ""
+msgstr "Essa opção não está disponível para o asteroide selecionado"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.NAME"
@@ -127153,6 +127197,10 @@ msgid ""
 "\n"
 "Tutorials can always be accessed in the database"
 msgstr ""
+"Quando essa caixa estiver desmarcada, notificações de tutoriais dentro do jogo "
+"ficarão <b>escondidas</b>\n"
+"\n"
+"Tutoriais sempre podem ser acessados no banco de dados"
 
 #. STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.TEMPERATURE_UNITS
 msgctxt "STRINGS.UI.FRONTEND.GAME_OPTIONS_SCREEN.TEMPERATURE_UNITS"
@@ -131271,6 +131319,9 @@ msgid ""
 "\n"
 "It bears a few small scratches from being hurled across a lab."
 msgstr ""
+"Um caprichoso souvenir feito de vidro temperado.\n"
+"\n"
+"Ele possui alguns arranhões por ter sido arremessado pelo laboratório."
 
 #. STRINGS.UI.KEEPSAKES.SNOWGLOBE.NAME
 #, fuzzy
@@ -138206,7 +138257,7 @@ msgstr "Selecione Módulo"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SHAPE.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SHAPE.NAME"
 msgid "Shape"
-msgstr ""
+msgstr "Forma"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.BRUSH_SHAPE.SQUARE_TOOLTIP
 #, fuzzy
@@ -138469,7 +138520,7 @@ msgstr "Frente"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.TARGET_LAYER.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.TARGET_LAYER.NAME"
 msgid "Layer"
-msgstr ""
+msgstr "Camada"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.TARGET_LAYER.TOOLTIP
 #, fuzzy
@@ -143929,6 +143980,8 @@ msgid ""
 "<b>Conduit Flow</b>\n"
 "View flow directions and spot blockages in pipe networks"
 msgstr ""
+"<b>Fluxo do Conduíte</b>\n"
+"Visualizar direções de fluxo e identificar bloqueios nas redes de tubos"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CONDUITS.NAME
 #, fuzzy
@@ -143944,6 +143997,8 @@ msgid ""
 "<b>Conduit Contents</b>\n"
 "View contents of pipe networks"
 msgstr ""
+"<b>Conteúdo do Conduíte</b>\n"
+"Visualizar o conteúdo das redes de tubos"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.NAME
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CONSTRUCTION.NAME"
@@ -151489,7 +151544,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.COPY_COSMETICS_SETTINGS.TOOLTIP_DUPLICANT
 msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_COSMETICS_SETTINGS.TOOLTIP_DUPLICANT"
 msgid "Apply the selected blueprint to another Duplicant"
-msgstr ""
+msgstr "Aplicar o modelo selecionado a outro Duplicante"
 
 #. STRINGS.UI.USERMENUACTIONS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DECONSTRUCT.NAME"
@@ -152569,7 +152624,7 @@ msgstr ""
 #. STRINGS.UI.USERMENUACTIONS.ROTATE_COSMETICS_SETTINGS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ROTATE_COSMETICS_SETTINGS.NAME"
 msgid "Rotate"
-msgstr ""
+msgstr "Rotacionar"
 
 #. STRINGS.UI.USERMENUACTIONS.ROTATE_COSMETICS_SETTINGS.TOOLTIP
 #, fuzzy
@@ -152942,6 +152997,10 @@ msgid ""
 "\n"
 "Peak conditions are not required for plant survival"
 msgstr ""
+"Quando as condições ideais são atingidas, esta planta apresenta comportamentos "
+"únicos\n"
+"\n"
+"As condições ideais não são necessárias para a sobrevivência da planta"
 
 #. STRINGS.UI.VITALSSCREEN.POLLINATION
 msgctxt "STRINGS.UI.VITALSSCREEN.POLLINATION"
