@@ -422,12 +422,9 @@ msgid "Whose job is it to clean out these slimy pipes?"
 msgstr "De quem é o trabalho de limpar esses canos grudentos?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ALGAE_DISTILLERY_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
-#| msgid "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ALGAE_DISTILLERY_PUFT.NAME"
 msgid "<link=\"ALGAEDISTILLERY\">Puft Algae Distiller</link>"
-msgstr "<link=\"ALGAEDISTILLERY\">Destilador de Algas</link>"
+msgstr "<link=\"ALGAEDISTILLERY\">Destilador de Algas de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_3TONE_PURPLE.DESC"
@@ -510,12 +507,9 @@ msgid "A light purple atmo belt with buttons that have become darkened with use.
 msgstr "Um atmo-cinto roxo claro com botões que ficaram escurecidos pelo uso."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_BROWN.NAME"
-#| msgid "Leather Atmo Belt"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_HATCH.NAME"
 msgid "Hatch Atmo Belt"
-msgstr "Atmo Cinto de Couro"
+msgstr "Atmo-Cinto de Chocoso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_NEUTRONIUM.DESC"
@@ -545,12 +539,9 @@ msgstr ""
 "Esquiletes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Belt"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PIP.NAME"
 msgid "Pip Atmo Belt"
-msgstr "Atmo Cinto Bolha"
+msgstr "Atmo-Cinto de Esquilete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PUFT.DESC"
@@ -559,12 +550,9 @@ msgid ""
 msgstr "Parece a tromba traseira de uma criatura. Felizmente, não tem o cheiro de uma."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Belt"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_PUFT.NAME"
 msgid "Puft Atmo Belt"
-msgstr "Atmo Cinto Bolha"
+msgstr "Atmo-Cinto de Bolha"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_RAPTOR.DESC"
@@ -655,12 +643,9 @@ msgid "What are these made of, stone?"
 msgstr "Do que são feitas, pedra?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.BROWN.NAME"
-#| msgid "Leather Atmo Gloves"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_HATCH.NAME"
 msgid "Hatch Atmo Gloves"
-msgstr "Atmo Luvas de Couro"
+msgstr "Atmo-Luvas de Chocoso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_NEUTRONIUM.DESC"
@@ -694,12 +679,9 @@ msgstr ""
 "criaturas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_GLOVES"
-#| msgid "Atmo Gloves"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PIP.NAME"
 msgid "Pip Atmo Gloves"
-msgstr "Atmo Luvas"
+msgstr "Atmo-Luvas de Esquilete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PLUM.DESC"
@@ -717,12 +699,9 @@ msgid "They have a distinctly rubbery feel to them."
 msgstr "Elas têm uma distinta sensação de borracha."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Gloves"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_PUFT.NAME"
 msgid "Puft Atmo Gloves"
-msgstr "Atmo-Luvas Bolha"
+msgstr "Atmo-Luvas de Bolha"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_RAPTOR.DESC"
@@ -828,12 +807,9 @@ msgstr ""
 "ligeiramente diferentes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_CHAMELEO.NAME"
-#| msgid "Dartle Atmo Helmet"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_HATCH.NAME"
 msgid "Hatch Atmo Helmet"
-msgstr "Atmo-Capacete Camalentão"
+msgstr "Atmo-Capacete de Chocoso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_NEUTRONIUM.DESC"
@@ -865,12 +841,9 @@ msgstr ""
 "Permite que os Duplicantes se fantasiem de criaturas, em qualquer lugar do cosmos!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Helmet"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PIP.NAME"
 msgid "Pip Atmo Helmet"
-msgstr "Atmo-Capacete Bolha"
+msgstr "Atmo-Capacete de Esquilete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PUFT.DESC"
@@ -878,12 +851,9 @@ msgid "It's a great way to give coworkers a nice jumpscare."
 msgstr "É uma ótima maneira de dar um belo susto nos colegas de trabalho."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Helmet"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_PUFT.NAME"
 msgid "Puft Atmo Helmet"
-msgstr "Atmo-Capacete Bolha"
+msgstr "Atmo-Capacete de Bolha"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_RAPTOR.DESC"
@@ -1009,12 +979,9 @@ msgid "Heavyweight boots for industrious space colonists."
 msgstr "Botas pesadas para colonos espaciais industriosos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_BLACK.NAME"
-#| msgid "Stealth Atmo Boots"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_HATCH.NAME"
 msgid "Hatch Atmo Boots"
-msgstr "Atmo-Botas Furtivas"
+msgstr "Atmo-Botas de Chocoso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_NEUTRONIUM.DESC"
@@ -1042,12 +1009,9 @@ msgid "Soft leather-lined boots for Duplicants' little back paws."
 msgstr "Botas de couro com forro para as pequenas patas traseiras dos Duplicantes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES"
-#| msgid "Atmo Boots"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PIP.NAME"
 msgid "Pip Atmo Boots"
-msgstr "Atmo Botas"
+msgstr "Atmo-Botas de Esquilete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PUFT.DESC"
@@ -1059,12 +1023,9 @@ msgstr ""
 "hostis."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Boots"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_PUFT.NAME"
 msgid "Puft Atmo Boots"
-msgstr "Atmo-Botas Bolha"
+msgstr "Atmo-Botas de Bolha"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_RAPTOR.DESC"
@@ -1173,12 +1134,9 @@ msgid "Perfect for when the monotony of colony life has you feeling a little dot
 msgstr "Perfeito para quando a monotonia da vida na colônia deixa você meio doido."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_CHAMELEO.NAME"
-#| msgid "Dartle Atmo Suit"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_HATCH.NAME"
 msgid "Hatch Atmo Suit"
-msgstr "Atmo-Traje Camalentão"
+msgstr "Atmo-Traje de Chocoso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_NEUTRONIUM.DESC"
@@ -1210,29 +1168,20 @@ msgid "A green ombre suit with subtle detailing at the outer extremities."
 msgstr "Um traje verde com degradê e detalhes sutis nas extremidades externas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.UI.UISIDESCREENS.BLUEPRINT_TAB.SUBCATEGORY_ATMOSUIT"
-#| msgid "Atmo Suit"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PIP.NAME"
 msgid "Pip Atmo Suit"
-msgstr "Atmo-Traje"
+msgstr "Atmo-Traje de Esquilete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PUFT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.WIDEFARMTILE.DESC"
-#| msgid "Enables Duplicants to accelerate growth rates for oversized plants too."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PUFT.DESC"
 msgid "Enables Duplicants to go undercover as their favorite flatulent fauna."
 msgstr ""
-"Permite que os duplicantes acelerem a taxa de crescimento de plantas gigantes também."
+"Permite que os duplicantes fiquem disfarçados com sua fauna flatulenta favorita."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PUFT.NAME"
-#| msgid "Puft Atmo Suit"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_PUFT.NAME"
 msgid "Puft Atmo Suit"
-msgstr "Atmo-Traje Bolha"
+msgstr "Atmo-Traje de Bolha"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_RAPTOR.DESC"
@@ -1367,12 +1316,9 @@ msgstr ""
 "para evitar dormir demais."
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME"
-#| msgid "<link=\"BED\">Cot</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_HATCH.NAME"
 msgid "<link=\"BEDHATCH\">Dura-Cot</link>"
-msgstr "<link=\"BED\">Cama</link>"
+msgstr "<link=\"BEDHATCH\">Cama-Choca</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC"
@@ -1393,12 +1339,9 @@ msgstr ""
 "abraçável para os Duplicantes sonolentos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME"
-#| msgid "<link=\"BED\">Cot</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_PIP.NAME"
 msgid "<link=\"BEDPIP\">Woodsy Cot</link>"
-msgstr "<link=\"BED\">Cama</link>"
+msgstr "<link=\"BEDPIP\">Cama Amadeirada</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_PUFT.DESC"
@@ -1410,12 +1353,9 @@ msgstr ""
 "que um Duplicante apoia a cabeça nele."
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.CREATURES.SPECIES.PUFT.NAME"
-#| msgid "<link=\"PUFT\">Puft</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_PUFT.NAME"
 msgid "<link=\"BEDPUFT\">Puff Cot</link>"
-msgstr "<link=\"PUFT\">Bolha</link>"
+msgstr "<link=\"BEDPUFT\">Cama Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_ROCK.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_ROCK.DESC"
@@ -1599,12 +1539,9 @@ msgstr ""
 "chão."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.DEFAULT_CEILINGLIGHT.NAME"
-#| msgid "<link=\"CEILINGLIGHT\">Ceiling Light</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_HATCH.NAME"
 msgid "<link=\"CEILINGLIGHT\">Hatch Ceiling Light</link>"
-msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto</link>"
+msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PIP.DESC"
@@ -1613,12 +1550,9 @@ msgstr ""
 "Emite a mesma quantidade de luz que lâmpadas que não estão adoravelmente grandes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.DEFAULT_CEILINGLIGHT.NAME"
-#| msgid "<link=\"CEILINGLIGHT\">Ceiling Light</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PIP.NAME"
 msgid "<link=\"CEILINGLIGHT\">Pip Ceiling Light</link>"
-msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto</link>"
+msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PUFT.DESC"
@@ -1626,12 +1560,9 @@ msgid "Remember to dust behind the teeth!"
 msgstr "Lembre-se de limpar atrás dos dentes!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.DEFAULT_CEILINGLIGHT.NAME"
-#| msgid "<link=\"CEILINGLIGHT\">Ceiling Light</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CEILINGLIGHT_PUFT.NAME"
 msgid "<link=\"CEILINGLIGHT\">Puft Ceiling Light</link>"
-msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto</link>"
+msgstr "<link=\"CEILINGLIGHT\">Lâmpada de Teto de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_HATCH.DESC"
@@ -1639,12 +1570,9 @@ msgid "It rattles more than it probably should."
 msgstr "Ela range mais do que provavelmente deveria."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME"
-#| msgid "<link=\"ASTRONAUTTRAININGCENTER\">Space Cadet Centrifuge</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_HATCH.NAME"
 msgid "<link=\"ASTRONAUTTRAININGCENTER\">Clunker Coaster</link>"
-msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Centrífuga de Cadetes Espaciais</link>"
+msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Sucateira Russa</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PIP.DESC"
@@ -1652,12 +1580,9 @@ msgid "Step right up and experience the thrill of zoomies firsthand!"
 msgstr "Venha por aqui e sinta a empolgação das correrias em primeira mão!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME"
-#| msgid "<link=\"ASTRONAUTTRAININGCENTER\">Space Cadet Centrifuge</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PIP.NAME"
 msgid "<link=\"ASTRONAUTTRAININGCENTER\">Pipster Zipster</link>"
-msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Centrífuga de Cadetes Espaciais</link>"
+msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Esquilete Velocete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PUFT.DESC"
@@ -1665,12 +1590,9 @@ msgid "Round and round and round it goes, it never thinks, and never knows."
 msgstr "Vira e mexe sem parar, nunca pensa e nunca sabe de nada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME"
-#| msgid "<link=\"ASTRONAUTTRAININGCENTER\">Space Cadet Centrifuge</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CENTRIFUGE_PUFT.NAME"
 msgid "<link=\"ASTRONAUTTRAININGCENTER\">The Mindless Loop</link>"
-msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Centrífuga de Cadetes Espaciais</link>"
+msgstr "<link=\"ASTRONAUTTRAININGCENTER\">O Loop Sem Sentido</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CO2SCRUBBER_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CO2SCRUBBER_NEUTRONIUM.DESC"
@@ -1714,13 +1636,9 @@ msgstr ""
 "Na verdade, foi necessário muita habilidade pra fazer isso parecer tão improvisado."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_HATCH.NAME
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.DEFAULT_CORNERMOULDING.NAME"
-#| msgid "<link=\"CORNERMOULDING\">Corner Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_HATCH.NAME"
 msgid "<link=\"CORNERMOULDING\">Hatch Corner Trim</link>"
-msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto</link>"
+msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_NEUTRONIUM.DESC"
@@ -1746,13 +1664,9 @@ msgstr ""
 "querida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PIP.NAME
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.DEFAULT_CORNERMOULDING.NAME"
-#| msgid "<link=\"CORNERMOULDING\">Corner Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PIP.NAME"
 msgid "<link=\"CORNERMOULDING\">Pip Corner Trim</link>"
-msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto</link>"
+msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PUFT.DESC"
@@ -1760,13 +1674,9 @@ msgid "Makes ceiling corner extra expressive."
 msgstr "Deixa o canto do teto ainda mais expressivo."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PUFT.NAME
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.FACADES.DEFAULT_CORNERMOULDING.NAME"
-#| msgid "<link=\"CORNERMOULDING\">Corner Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_PUFT.NAME"
 msgid "<link=\"CORNERMOULDING\">Puft Corner Trim</link>"
-msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto</link>"
+msgstr "<link=\"CORNERMOULDING\">Acabemento de Canto de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CORNER_TILE_RETRO_NAUTICAL.DESC"
@@ -1793,20 +1703,14 @@ msgid "Retro LED Crafting Table"
 msgstr "Mesa de Fabricação LED Retrô"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_AIRBORNE_PIP.DESC
-#, fuzzy
-#| msgctxt "STRINGS.RESEARCH.TECHS.RANCHING.DESC"
-#| msgid "Tame and care for wild critters."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_AIRBORNE_PIP.DESC"
 msgid "A homey holiday nest for flying critters."
-msgstr "Dome e cuide de criaturas."
+msgstr "Um refúgio acolhedor para as criaturas voadoras."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_AIRBORNE_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECRITTERCONDO.NAME"
-#| msgid "<link=\"AIRBORNECRITTERCONDO\">Airborne Critter Condo</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_AIRBORNE_PIP.NAME"
 msgid "<link=\"AIRBORNECRITTERCONDO\">Pip Airborne Critter Condo</link>"
-msgstr "<link=\"AIRBORNECRITTERCONDO\">Cômodo de Criatura Aérea</link>"
+msgstr "<link=\"AIRBORNECRITTERCONDO\">Cômodo de Criatura Aérea de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_HATCH.DESC"
@@ -1818,12 +1722,9 @@ msgstr ""
 "grande abraço aconchegante."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.NAME"
-#| msgid "<link=\"CRITTERCONDO\">Critter Condo</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_HATCH.NAME"
 msgid "<link=\"CRITTERCONDO\">Hatch Critter Condo</link>"
-msgstr "<link=\"CRITTERCONDO\">Cômodo de Criaturas</link>"
+msgstr "<link=\"CRITTERCONDO\">Cômodo de Criaturas de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_PUFT.DESC"
@@ -1835,12 +1736,9 @@ msgstr ""
 "lgo' realmente interessante."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.NAME"
-#| msgid "<link=\"CRITTERCONDO\">Critter Condo</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CRITTER_CONDO_PUFT.NAME"
 msgid "<link=\"CRITTERCONDO\">Puft Critter Condo</link>"
-msgstr "<link=\"CRITTERCONDO\">Cômodo de Criaturas</link>"
+msgstr "<link=\"CRITTERCONDO\">Cômodo de Criaturas de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_HATCH.DESC"
@@ -1848,12 +1746,9 @@ msgid "For colonies that like to embrace their jagged edges."
 msgstr "Para colônias que gostam de abraçar suas bordas irregulares."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.NAME"
-#| msgid "<link=\"CROWNMOULDING\">Ceiling Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_HATCH.NAME"
 msgid "<link=\"CROWNMOULDING\">Hatch Ceiling Trim</link>"
-msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto</link>"
+msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_NEUTRONIUM.DESC"
@@ -1877,12 +1772,9 @@ msgstr ""
 "natureza."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.NAME"
-#| msgid "<link=\"CROWNMOULDING\">Ceiling Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PIP.NAME"
 msgid "<link=\"CROWNMOULDING\">Pip Ceiling Trim</link>"
-msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto</link>"
+msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PUFT.DESC"
@@ -1894,12 +1786,9 @@ msgstr ""
 "construído por todo o teto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CROWNMOULDING.FACADES.DEFAULT_CROWNMOULDING.NAME"
-#| msgid "<link=\"CROWNMOULDING\">Ceiling Trim</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_PUFT.NAME"
 msgid "<link=\"CROWNMOULDING\">Puft Ceiling Trim</link>"
-msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto</link>"
+msgstr "<link=\"CROWNMOULDING\">Acabamento de Teto de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_CROWN_MOULDING_RETRO_NAUTICAL.DESC"
@@ -1921,12 +1810,9 @@ msgstr ""
 "ficou adormecida por causa de tanto sal."
 
 #. STRINGS.BLUEPRINTS.PERMIT_DESALINATOR_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.DESALINATOR.NAME"
-#| msgid "<link=\"DESALINATOR\">Desalinator</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DESALINATOR_HATCH.NAME"
 msgid "<link=\"DESALINATOR\">Hatch Desalinator</link>"
-msgstr "<link=\"DESALINATOR\">Dessalinizador</link>"
+msgstr "<link=\"DESALINATOR\">Dessalinizador de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_EXTERNAL_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_EXTERNAL_PUFT.DESC"
@@ -1934,12 +1820,9 @@ msgid "The bottom \"teeth\" are a bit of a tripping hazard."
 msgstr "Os \"dentes\" de baixo são um pouco perigosos para tropeçar."
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_EXTERNAL_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
-#| msgid "<link=\"PRESSUREDOOR\">Mechanized Airlock</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_EXTERNAL_PUFT.NAME"
 msgid "<link=\"PRESSUREDOOR\">Puft Mechanized Airlock Door</link>"
-msgstr "<link=\"PRESSUREDOOR\">Escotilha Mecanizada</link>"
+msgstr "<link=\"PRESSUREDOOR\">Escotilha Mecanizada de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_INTERNAL_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_INTERNAL_PIP.DESC"
@@ -1947,12 +1830,9 @@ msgid "It took someone a very long time to weave all those vines."
 msgstr "Levou muito tempo pra alguém tecer todas essas vinhas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_INTERNAL_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
-#| msgid "<link=\"DOOR\">Pneumatic Door</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_INTERNAL_PIP.NAME"
 msgid "<link=\"DOOR\">Pip Pneumatic Door</link>"
-msgstr "<link=\"DOOR\">Porta Pneumática</link>"
+msgstr "<link=\"DOOR\">Porta Pneumática de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_MANUAL_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_MANUAL_HATCH.DESC"
@@ -1960,12 +1840,9 @@ msgid "It sure would be hard to tell if there was a Hatch trapped between its pa
 msgstr "Teria sido difícil perceber se um Chocoso estivesse preso entre seus painéis."
 
 #. STRINGS.BLUEPRINTS.PERMIT_DOOR_MANUAL_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
-#| msgid "<link=\"MANUALPRESSUREDOOR\">Manual Airlock</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DOOR_MANUAL_HATCH.NAME"
 msgid "<link=\"MANUALPRESSUREDOOR\">Hatch Manual Airlock Door</link>"
-msgstr "<link=\"MANUALPRESSUREDOOR\">Escotilha Manual</link>"
+msgstr "<link=\"MANUALPRESSUREDOOR\">Escotilha Manual de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_DRESS_FUTURESPACE_BLUE.DESC"
@@ -2023,20 +1900,14 @@ msgid "<link=\"LUXURYBED\">Hatch Bed</link>"
 msgstr "<link=\"LUXURYBED\">Cama de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIP_C2.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.DESC"
-#| msgid "For Duplicants who can't keep real plants alive."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIP_C2.DESC"
 msgid "For Duplicants who don't like to sleep alone."
-msgstr "Para Duplicantes que não conseguem manter plantas reais vivas."
+msgstr "Para Duplicantes que não gostam de dormir sozinhos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIP_C2.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.NAME"
-#| msgid "<link=\"LUXURYBED\">Pipsqueak Bed</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIP_C2.NAME"
 msgid "<link=\"LUXURYBED\">Pip Plushies Bed</link>"
-msgstr "<link=\"LUXURYBED\">Cama de Esquilete</link>"
+msgstr "<link=\"LUXURYBED\">Cama de Pelúcias Esquiletes</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PIPSQUEAK.DESC"
@@ -2049,20 +1920,14 @@ msgid "<link=\"LUXURYBED\">Pipsqueak Bed</link>"
 msgstr "<link=\"LUXURYBED\">Cama de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PUFT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.DESC"
-#| msgid "A comfy, if somewhat 'fragrant', place to sleep."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PUFT.DESC"
 msgid "A comfy, if somewhat 'fragrant', place to sleep."
 msgstr "Um lugar confortável, e até \"cheiroso\", de se dormir."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.NAME"
-#| msgid "<link=\"LUXURYBED\">Puft Bed</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_PUFT.NAME"
 msgid "<link=\"LUXURYBED\">Puft Bed</link>"
-msgstr "<link=\"LUXURYBED\">Cama Bolha</link>"
+msgstr "<link=\"LUXURYBED\">Cama de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ELEGANTBED_SUBMARINE.DESC"
@@ -2084,12 +1949,9 @@ msgid "This design takes a leaf out of the critter's book, so to speak."
 msgstr "Este design pega uma lição do livro da criatura, por assim dizer."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FARMTILEHYDROPONICROTATING_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROPONICFARM.NAME"
-#| msgid "<link=\"HYDROPONICFARM\">Hydroponic Farm</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FARMTILEHYDROPONICROTATING_PIP.NAME"
 msgid "<link=\"HYDROPONICFARM\">Pip Hydroponic Farm</link>"
-msgstr "<link=\"HYDROPONICFARM\">Horta Hidropônica</link>"
+msgstr "<link=\"HYDROPONICFARM\">Horta Hidropônica de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FARMTILEROTATING_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FARMTILEROTATING_PIP.DESC"
@@ -2097,28 +1959,19 @@ msgid "For farms that are ready to really branch out."
 msgstr "Para hortas que estão prontas para realmente diversificar."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FARMTILEROTATING_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
-#| msgid "<link=\"FARMTILE\">Farm Tile</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FARMTILEROTATING_PIP.NAME"
 msgid "<link=\"FARMTILE\">Pip Farm Tile</link>"
-msgstr "<link=\"FARMTILE\">Bloco de Horta</link>"
+msgstr "<link=\"FARMTILE\">Bloco de Horta de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FILTER_GAS_PUFT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.SHELF.DESC"
-#| msgid "It looks great even when it's empty."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FILTER_GAS_PUFT.DESC"
 msgid "It looks so very pleased with itself."
-msgstr "Parece linda mesmo quando está vazia."
+msgstr "Parece tão contente com si mesma."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FILTER_GAS_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
-#| msgid "<link=\"GASFILTER\">Gas Filter</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FILTER_GAS_PUFT.NAME"
 msgid "<link=\"GASFILTER\">Puft Gas Filter</link>"
-msgstr "<link=\"GASFILTER\">Filtro de Gás</link>"
+msgstr "<link=\"GASFILTER\">Filtro de Gás de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC"
@@ -2141,12 +1994,9 @@ msgstr ""
 "bem pesado."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
-#| msgid "<link=\"FLOWERVASEHANGING\">Hanging Pot</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_HATCH.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Hatch Hanging Pot</link>"
-msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PIP.DESC"
@@ -2154,12 +2004,9 @@ msgid "A hanging flower pot made from dense layers of compressed foliage."
 msgstr "Um vaso de flores pendurado feito de camadas densas de folhagem comprimida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
-#| msgid "<link=\"FLOWERVASEHANGING\">Hanging Pot</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PIP.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Pip Hanging Pot</link>"
-msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso de Esquilete</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PUFT.DESC"
@@ -2170,12 +2017,9 @@ msgstr ""
 "teto. Que fofo!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
-#| msgid "<link=\"FLOWERVASEHANGING\">Hanging Pot</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_BASIC_PUFT.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Puft Hanging Pot</link>"
-msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso</link>"
+msgstr "<link=\"FLOWERVASEHANGING\">Vaso Suspenso de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_HATCH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOWERVASE_HANGING_HATCH.DESC"
@@ -6638,12 +6482,9 @@ msgstr ""
 "de quatro criaturas adultas em uma emergência."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_SCOUT_HATCHSTONE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.NERD_BROWN.NAME"
-#| msgid "Research Shirt"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_SCOUT_HATCHSTONE.NAME"
 msgid "Ranger Shirt"
-msgstr "Camiseta Pesquisa"
+msgstr "Camiseta de Patrulheiro"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_SCOUT_WHITE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_SCOUT_WHITE.DESC"
@@ -6839,28 +6680,19 @@ msgid "Usually not an exit that workers would enjoy lingering next to."
 msgstr "Geralmente não é uma saída que os trabalhadores gostariam de ficar por perto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_VENTGAS_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
-#| msgid "<link=\"GASVENT\">Gas Vent</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_VENTGAS_PUFT.NAME"
 msgid "<link=\"GASVENT\">Puft Gas Vent</link>"
-msgstr "<link=\"GASVENT\">Saída de Gás</link>"
+msgstr "<link=\"GASVENT\">Saída de Gás de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_VENTLIQUID_PUFT.DESC
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.PURPLE_BRAINFAT.DESC"
-#| msgid "It's like pooping inside Hexalent fruit!"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_VENTLIQUID_PUFT.DESC"
 msgid "It's like a waterpark slide exit for liquids!"
-msgstr "É como fazer o número dois numa fruta Hexalente!"
+msgstr "É como uma saída de tobogã de parque aquático para líquidos!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_VENTLIQUID_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
-#| msgid "<link=\"LIQUIDVENT\">Liquid Vent</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_VENTLIQUID_PUFT.NAME"
 msgid "<link=\"LIQUIDVENT\">Puft Liquid Vent</link>"
-msgstr "<link=\"LIQUIDVENT\">Saída de Líquidos</link>"
+msgstr "<link=\"LIQUIDVENT\">Saída de Líquidos de Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BEAKER.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_AQUA_BEAKER.DESC"
@@ -7162,12 +6994,9 @@ msgid "An all-over print featuring the Hatch's familiar monochromatic spots."
 msgstr "Uma estampa extravagante com os familiares pontos monocromáticos do Chocoso."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_HATCH.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME"
-#| msgid "<link=\"EXTERIORWALL\">Southwest</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_HATCH.NAME"
 msgid "<link=\"EXTERIORWALL\">Hatchspot</link>"
-msgstr "<link=\"EXTERIORWALL\">Sudeste</link>"
+msgstr "<link=\"EXTERIORWALL\">Mancha de Chocoso</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC"
@@ -7197,12 +7026,9 @@ msgstr ""
 "Esquilete."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_PIP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_X_FLAMINGO_WHITE.NAME"
-#| msgid "<link=\"EXTERIORWALL\">Petal X</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_PIP.NAME"
 msgid "<link=\"EXTERIORWALL\">Pipleaf</link>"
-msgstr "<link=\"EXTERIORWALL\">X Pétala</link>"
+msgstr "<link=\"EXTERIORWALL\">Esquifolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_PLUS_BLUE_NAUTICAL_WHITE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_PLUS_BLUE_NAUTICAL_WHITE.DESC"
@@ -7220,12 +7046,9 @@ msgid "Faux-fur walls for the true Puft connoisseur. So fluffy!"
 msgstr "Paredes de pelo artificial para o verdadeiro apreciador de Bolhas. Tão fofo!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_PUFT.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.NAME"
-#| msgid "<link=\"EXTERIORWALL\">Puce Stripe</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_PUFT.NAME"
 msgid "<link=\"EXTERIORWALL\">Puftpuff</link>"
-msgstr "<link=\"EXTERIORWALL\">Faixa Rosa-Púrpura</link>"
+msgstr "<link=\"EXTERIORWALL\">Fofo Bolha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_RAPTOR.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_RAPTOR.DESC"
@@ -7396,22 +7219,14 @@ msgid "<link=\"EXTERIORWALL\">Nautical Stripe</link>"
 msgstr "<link=\"EXTERIORWALL\">Faixa Náutica</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE.DESC
-#, fuzzy
-#| msgctxt ""
-#| "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT."
-#| "DESC"
-#| msgid "Diagonal stripes in alternating shades of purple."
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE.DESC"
 msgid "Undulating lines in alternating shades of slippery algae."
-msgstr "Listras diagonais em tons alternados de roxo."
+msgstr "Linhas onduladas em tons alternados de alga escorregadia."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_X_KELLY_WHITE.NAME"
-#| msgid "<link=\"EXTERIORWALL\">Algae X</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE.NAME"
 msgid "<link=\"EXTERIORWALL\">Algae Ripple</link>"
-msgstr "<link=\"EXTERIORWALL\">X Alga</link>"
+msgstr "<link=\"EXTERIORWALL\">Onda de Algas</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.DESC"
@@ -7419,12 +7234,9 @@ msgid "Warm-hued stones with a small heap of algae in the foreground."
 msgstr "Pedras de tons quentes com um pequeno monte de algas em primeiro plano."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.NAME
-#, fuzzy
-#| msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.NAME"
-#| msgid "<link=\"EXTERIORWALL\">Pastel Purple</link>"
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_ALGAE_TOP.NAME"
 msgid "<link=\"EXTERIORWALL\">Sandstone Algae Ripple</link>"
-msgstr "<link=\"EXTERIORWALL\">Roxo Pastel</link>"
+msgstr "<link=\"EXTERIORWALL\">Onda de Algas de Arenito</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_BOTTOM.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_T_CACTUS_BOTTOM.DESC"
